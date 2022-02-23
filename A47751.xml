@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primitive heresie revived in the faith and practice of the people called Quakers wherein is shewn in seven particulars that the principal and most characteristick errors of the Quakers were broached and condemned in the days of the Apostles and the first 150 years after Christ : to which is added a friendly expostulation with William Penn upon account of his Primitive Christianity lately published / by the author of The snake in the grass.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47751</idno>
+            <idno type="STC">Wing L1140</idno>
+            <idno type="STC">ESTC R26153</idno>
+            <idno type="EEBO-CITATION">09369935</idno>
+            <idno type="OCLC">ocm 09369935</idno>
+            <idno type="VID">42880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1311:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Primitive heresie revived in the faith and practice of the people called Quakers wherein is shewn in seven particulars that the principal and most characteristick errors of the Quakers were broached and condemned in the days of the Apostles and the first 150 years after Christ : to which is added a friendly expostulation with William Penn upon account of his Primitive Christianity lately published / by the author of The snake in the grass.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Brome, W. Keblewhite, and H. Hindmarsh,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718. --  Primitive Christianity revived in the faith and practice of the people called Quakers.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:42880:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>bookplate</figDesc>
+                  <head>VIRTUTE ET OPERA</head>
+                  <p>The Right Hon<hi rend="sup">ble</hi>. My Lord Bracco.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:42880:1" rendition="simple:additions"/>
+            <p>Primitive Hereſie REVIVED, IN <hi>The Faith and Practice</hi> Of the PEOPLE Called QUAKERS:</p>
+            <p>Wherein is ſhewn, in <hi>Seven</hi> Particulars, That the <hi>Principal</hi> and moſt <hi>Characteriſtick</hi> Errors of the <hi>Quakers,</hi> were <hi>Broached</hi> and <hi>Condemned,</hi> in the Days of the <hi>Apoſtles,</hi> and the firſt 150 Years after <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>To which is Added,</hi> A <hi>Friendly Expoſtulation</hi> with <hi>William Penn,</hi> upon Account of his <hi>Primitive Chriſtianity,</hi> lately Publiſhed.</p>
+            <p>By the Author of <hi>The Snake in the Graſs.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>C. Brome,</hi> at the <hi>Gun,</hi> at the <hi>Weſt</hi>-End of St. <hi>Paul</hi>'s. <hi>W. Keblewhite,</hi> at the <hi>Swan</hi> in St. <hi>Paul</hi>'s Church-Yard. And <hi>H. Hindmarſh,</hi> at the <hi>Golden-Ball</hi> over-againſt the <hi>Royal Exchange.</hi> 1698.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:42880:2"/>
+            <pb facs="tcp:42880:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>The Seven <hi>Errors,</hi> wherein the <hi>Quakers</hi> are Compar'd with the Ancient <hi>Hereticks.</hi>
+               </head>
+               <item>
+                  <hi>I.</hi> THeir Denyal of the <hi>Incarnation</hi> of <hi>Chriſt,</hi> that is, of the <hi>Hypoſtatical,</hi> or <hi>Perſonal</hi> 
+                  <g ref="char:V">Ʋ</g>nion of the <hi>Divine</hi> and <hi>Humane</hi> Natures, in His being made <hi>Fleſh. page 2.</hi>
+               </item>
+               <item>
+                  <hi>II.</hi> Their Denyal of the Truth and Reality of His <hi>Death</hi> and <hi>Sufferings. p. 3.</hi>
+               </item>
+               <item>
+                  <hi>III.</hi> Their Denyal of the <hi>Reſurrection</hi> &amp; Future <hi>Judgment. p. 7.</hi>
+               </item>
+               <item>
+                  <hi>IV.</hi> Their Abſtaining from the <hi>Sacraments</hi> and <hi>Prayers</hi> of the <hi>Church. p. 9.</hi>
+               </item>
+               <item>
+                  <hi>V.</hi> Their forbidding to <hi>Marry,</hi> &amp; preaching up of <hi>Fornication. p. 12.</hi>
+               </item>
+               <item>
+                  <hi>VI.</hi> Their Contempt of <hi>Magiſtracy</hi> and <hi>Government. p. 14.</hi>
+               </item>
+               <item>
+                  <hi>VII.</hi> Their Stiffneſs in not taking off their <hi>Hats,</hi> or giving Men their <hi>Civil</hi> Titles. <hi>p. 17.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Concluſion,</head>
+               <item>Wherein, <hi>1.</hi> The <hi>Quakers</hi> are Invited to view their <hi>Errors</hi> in thoſe <hi>Primitive Hereſies. p. 18.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Their Complaint of being <hi>Mis-repreſented.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Their <hi>Modern Repreſentation</hi> of their <hi>Principles;</hi> leaves
+<pb facs="tcp:42880:3"/>
+not <hi>Difference</hi> enough betwixt us, to Juſtifie their <hi>Separation:</hi> Whence an Invitation to them to Return.</item>
+            </list>
+            <list>
+               <head>The Friendly Expoſtulation, Concerning,</head>
+               <item>
+                  <hi>1.</hi> Mr. <hi>Penn</hi>'s Notion of the <hi>Light within. p. 20.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> This not ſufficient to Juſtifie his <hi>Separation. p. 28.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> For he owns that we are of one <hi>Religion. p. 29.</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> His Expoſition of <hi>Juſtification</hi> in his <hi>Primitive Chriſtianity</hi> moſt <hi>Orthodox,</hi> and agreeing exactly with us. And his whole <hi>ix. Chapt.</hi> of the <hi>Inward</hi> or <hi>Spiritual</hi> Appearance of <hi>Chriſt</hi> in the <hi>Soul.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Some <hi>Objections</hi> of his ſolv'd, ſo far as not to be any Juſtifiable Cauſes of a <hi>Separation,</hi> as Concerning,</head>
+               <item>
+                  <hi>1. Forms</hi> of <hi>Prayer. p. 30.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> The <hi>Spirituality</hi> of the <hi>Miniſtry.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> Their being <hi>Witneſſes</hi> of <hi>Chriſt. p. 31.</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Their Receiving <hi>Hire</hi> (as he calls it) for their <hi>Preaching.</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> Tythes.</item>
+               <item>
+                  <hi>6.</hi> Swearing.</item>
+               <item>
+                  <hi>7.</hi> War.</item>
+               <item>
+                  <hi>8.</hi> Holy-Days. <hi>p. 32.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge 11. l. 29. f. one r. only. P. 17. l. 21. r. Diſcriminating. P. 21. l. 11. dele?</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42880:3"/>
+            <head>
+               <hi>Primitive</hi> Hereſie <hi>Reviv'd,</hi> &amp;c.</head>
+            <p>IN my Diſcourſe of <hi>Baptiſm,</hi> I promis'd ſomething upon this Subject, in hopes that the <hi>Quakers,</hi> ſeeing the <hi>Original</hi> of their <hi>Errors,</hi> may bethink themſelves, and Return from whence they have Fallen.</p>
+            <p>And particularly, as to <hi>Baptiſm,</hi> that I might confirm my Expoſitions of the H. <hi>Scriptures,</hi> with the Concurrent Teſtimo<g ref="char:EOLhyphen"/>ny of the H. <hi>Fathers,</hi> who were <hi>Co-temporarys</hi> with the <hi>Apoſtles,</hi> and learn'd the <hi>Faith</hi> from their mouths; and thoſe who imme<g ref="char:EOLhyphen"/>diately followed them, to 150 Years after <hi>Chriſt.</hi> Though we have very little Remaining of the Writings of the <hi>Fathers</hi> in that early Age. Yet I would deſcend no lower (where I might have had <hi>Clouds</hi> of <hi>Witneſſes</hi>) to avoid a Groundleſs <hi>Cavil,</hi> which the <hi>Quakers</hi> have learn'd from our Elder <hi>Diſſenters,</hi> to Run down the <hi>Primitive Church,</hi> by whole-ſale, becauſe it was ſo Full of <hi>Biſhops,</hi> and, in all the Pretences of their <hi>Schiſm,</hi> went ſo Di<g ref="char:EOLhyphen"/>rectly contrary to them. But the <hi>Fathers</hi> of the <hi>Firſt</hi> Age, that next to the <hi>Apoſtles,</hi> and of which the <hi>Apoſtles</hi> were a Part, tho' as much <hi>Biſhops,</hi> and as much againſt them as thoſe following, yet for <hi>Decency</hi> ſake, they Pretend to <hi>Reverence,</hi> leſt in allowing them off, they ſhould ſeem to throw off the <hi>Apoſtles</hi> with them, from whom they could not be parted.</p>
+            <p>And becauſe, even in this <hi>firſt</hi> Un-controverted Age, we have Proofs ſufficient, I would avoid Needleſs Diſputes, and Argue from <hi>Topicks</hi> that are allowed on all hands.</p>
+            <p>The Greateſt Part of the following Diſcourſe was wrote at the time with the <hi>Diſcourſe of Baptiſm,</hi> and Intended to have been Annex'd to it, but being Prevented at that time, it has ſince been neglected. Till I was ſtirr'd up afreſh by a Book lately Publiſh<g ref="char:EOLhyphen"/>ed (though ſaid to be Printed in 1696.) Intituled, <hi>[Primitive Chriſtianity Reviv'd in the Faith and Practice of the People called Quakers.]</hi> This came Directly to my Subject, therefore I
+<pb n="2" facs="tcp:42880:4"/>
+have Examin'd it thorowly, and leave the Reader to Judge, whe<g ref="char:EOLhyphen"/>ther the <hi>Primitive Chriſtianity</hi> or <hi>Hereſie</hi> does belong moſt to them: At leaſt, whether it did, before the late <hi>Repreſentations</hi> of <hi>Quakeriſm,</hi> which have given it quite another <hi>Turn</hi> and <hi>Face</hi> than it ever had before. Such a <hi>Turn,</hi> as has left nothing on their ſide, whereby to juſtifie their <hi>Schiſm.</hi> And therefore we hope that their <hi>Converſion</hi> is nigh; or if already <hi>Converted,</hi> their Full <hi>Re<g ref="char:EOLhyphen"/>conciliation</hi> to the <hi>Church.</hi> That the Preſent <hi>Quakers,</hi> chiefly the Valuable Mr. <hi>Penn,</hi> may have the Honour, and the Happineſs to Heal up that <hi>Breach,</hi> which now for 48 Years has ſo Miſerably <hi>Torn</hi> and <hi>Divided</hi> this once moſt <hi>Chriſtian</hi> and Renowned <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>In this following Diſcourſe, I will not take up the Reader's time to Prove the ſeveral Poſitions which I name upon the <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> only Briefly Recite them, and Refer to the Places in <hi>The Snake in the Graſs,</hi> and <hi>Satan Dis-Rob'd,</hi> where they are prov'd at large. And to Repeat them Here, would ſwell this to an un<g ref="char:EOLhyphen"/>reaſonable Bulk. And this being intended in the Nature of a <hi>Supplement</hi> to theſe, it would be Needleſs. The proper Buſineſs of this, is, to Compare the <hi>Quaker-Hereſies</hi> with thoſe of the firſt 150 Years of <hi>Chriſtianity.</hi>
+            </p>
+            <p>Where I Quote <hi>The Snake,</hi> the Reader is deſired to take notice, that it is the <hi>Second Edition.</hi>
+            </p>
+            <p>And now to our Task. The <hi>Seven</hi> Particulars wherein the <hi>Quakers</hi> have, if not copy'd after, at leaſt Jump'd with the Con<g ref="char:EOLhyphen"/>demn'd <hi>Hereticks</hi> before mention'd.</p>
+            <p n="1">I. The <hi>Firſt</hi> is, as to their Denyal of the <hi>Incarnation</hi> of <hi>Chriſt.</hi> They confeſs that <hi>Chriſt</hi> or <hi>The Word</hi> took <hi>Fleſh;</hi> that is, That He <hi>Aſſum'd</hi> or <hi>Dwelt</hi> in an <hi>Human Body, i. e.</hi> the <hi>Body</hi> of that Man <hi>Jeſus;</hi> who was therefore called <hi>Chriſt,</hi> becauſe that <hi>Chriſt</hi> or the <hi>Word</hi> Dwelt in Him. And for the ſame Reaſon, they take the Name of <hi>Chriſt</hi> to themſelves; and ſay that it belongs to e<g ref="char:EOLhyphen"/>very one of the <hi>Members</hi> as well as unto the Head, <hi>i. e.</hi> as well as to that Man <hi>Jeſus,</hi> who was Principally and Chiefly called <hi>The Chriſt,</hi> becauſe that <hi>Chriſt</hi> Dwelt in Him, or did <hi>Inſpire</hi> Him in a Greater <hi>Meaſure</hi> than other Men. But they <hi>
+                  <g ref="char:V">Ʋ</g>tterly Deny</hi> that the Man <hi>Jeſus</hi> was Properly the <hi>Son</hi> of <hi>God.</hi> In a large Senſe, every <hi>Chriſtian</hi> may be call'd a <hi>Son</hi> of <hi>God;</hi> and ſo, and no o<g ref="char:EOLhyphen"/>therwiſe, they allow <hi>Jeſus</hi> to be the <hi>Son</hi> of <hi>God.</hi> But that He
+<pb n="3" facs="tcp:42880:4"/>
+               <hi>was Properly the Son of God, we utterly Deny,</hi>— ſays their <hi>ſerious Apology,</hi> p. 146. which was Printed 1671. See this Proved at large in <hi>The Snake in the Graſs, Sect.</hi> x.</p>
+            <p>Now I Proceed to ſhew, That this <hi>Hereſie</hi> was <hi>Broach'd</hi> and <hi>Condemn'd</hi> in the Days of the <hi>Apoſtles.</hi> This is it which St. <hi>John</hi> Reprehends, 1 <hi>Joh.</hi> iv. 3. <hi>Every Spirit that confeſſeth not that Je<g ref="char:EOLhyphen"/>ſus Chriſt is come in the Fleſh,</hi> &amp;c. or as <hi>Socrates</hi> (Hiſt. Eccl. l. 7. c. 32.) tells us it was wrote in the Ancient Copys, <hi>Every Spirit which ſeparateth Jeſus from God, is not of God.</hi> And he obſerves that this Text, and other Parts of this <hi>Epiſtle</hi> were alter'd by thoſe who would ſeparate the <hi>Divinity</hi> of <hi>Chriſt</hi> from His <hi>Huma<g ref="char:EOLhyphen"/>nity.</hi> Tho' as it now ſtands in our Copys, it means the ſame thing; for he that denys <hi>Chriſt</hi> to have been <hi>made</hi> Fleſh, only ſays that he took it upon Him for a <hi>Cloak</hi> or a <hi>Veil,</hi> as <hi>Angels</hi> aſſume <hi>Bodys</hi> when they appear in them: He denys <hi>Chriſt</hi>'s coming in the <hi>Fleſh,</hi> ſo as to become <hi>Truly</hi> and <hi>Really</hi> a <hi>Man;</hi> he takes away the <hi>Humanity</hi> of <hi>Chriſt,</hi> and ſo ſeparates <hi>Jeſus</hi> from <hi>God:</hi> Which, in the ſenſe of this <hi>Text,</hi> is to Deny His <hi>coming in the fleſh.</hi> St. <hi>Po<g ref="char:EOLhyphen"/>lycarp,</hi> in his <hi>Epiſt.</hi> to the <hi>Philippians,</hi> n. 7. Diſputes againſt theſe <hi>Anti-Chriſts,</hi> in the words of his <hi>Maſter</hi> St. <hi>John,</hi> whoſe <hi>Diſciple</hi> he was, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(ſays he)</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i. e. Whoſoever does not confeſs that Jeſus Chriſt is come in the Fleſh, is an Anti-Chriſt.</hi>
+            </p>
+            <p n="2">II. The <hi>Second</hi> point is the <hi>Quakers</hi> Denyal of the <hi>Truth</hi> and <hi>Reality</hi> of the <hi>Death</hi> and <hi>Sufferings</hi> of <hi>Chriſt.</hi> This is Conſequen<g ref="char:EOLhyphen"/>tial to the former <hi>Hereſie;</hi> for if <hi>Chriſt</hi> took not the <hi>Body</hi> of <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> into his own <hi>Perſon,</hi> but only dwelt in the <hi>Body</hi> of another Man, as he dwells in his <hi>Saints;</hi> if <hi>Chriſt</hi> and <hi>Jeſus</hi> are two <hi>Per<g ref="char:EOLhyphen"/>ſons;</hi> if the <hi>Body</hi> of <hi>Jeſus</hi> was only a <hi>Veil</hi> or <hi>Garment</hi> for <hi>Chriſt</hi> to ſhrowd himſelf in, as the <hi>Quakers</hi> ſpeak; then, tho' <hi>Jeſus</hi> ſuffer'd, yet <hi>Chriſt</hi> could not; and the <hi>Sufferings</hi> of <hi>Chriſt</hi> were but in <hi>Ap<g ref="char:EOLhyphen"/>pearance</hi> and <hi>ſhew,</hi> as if a Man's <hi>Cloak</hi> or <hi>Garment</hi> only were <hi>Cruci<g ref="char:EOLhyphen"/>fy'd.</hi>
+            </p>
+            <p>What are then thoſe <hi>Sufferings</hi> of <hi>Chriſt</hi> which the <hi>Quakers</hi> do own as <hi>Meritorious</hi> in the ſight of <hi>God,</hi> for the <hi>Atonement</hi> of our <hi>ſins?</hi> Why, an ALLEGORICAL <hi>Suffering, Death,</hi> and <hi>ſhedding</hi> of the <hi>Blood</hi> of their <hi>Light within;</hi> which they call <hi>Chriſt;</hi> of which <hi>Jeſus,</hi> or the outward <hi>Chriſt,</hi> they ſay was but a <hi>Type;</hi> and that his <hi>Sufferings</hi> were only an <hi>Hiſtorical</hi> Tranſaction of the
+<pb n="4" facs="tcp:42880:5"/>
+Greater <hi>Myſterie</hi> of the <hi>Sufferings</hi> and <hi>Atonement</hi> perform'd by their <hi>Light within,</hi> as I have fully ſhewn in <hi>The Snake in the Graſs,</hi> Sect. x. p. 127. and <hi>Satan Diſ-Rob'd,</hi> Sect. xii. p. 11.</p>
+            <p>But now I am to ſhew, That the <hi>Devil</hi> had <hi>Broached</hi> theſe <hi>Here<g ref="char:EOLhyphen"/>ſies,</hi> againſt the <hi>Truth</hi> of the <hi>Incarnation</hi> of <hi>Chriſt,</hi> and conſequent<g ref="char:EOLhyphen"/>ly againſt the <hi>Reality</hi> of his <hi>Death</hi> and <hi>Sufferings,</hi> within the firſt 150 Years after <hi>Chriſt:</hi> and that they were then Condemned by the Holy <hi>Fathers</hi> of the <hi>Church.</hi>
+            </p>
+            <p>
+               <hi>Ignatius</hi> that Glorious <hi>Martyr</hi> of <hi>Chriſt,</hi> Biſhop of <hi>Antioch,</hi> who flouriſh'd about the Year 70 after the Birth of <hi>Chriſt,</hi> and was Diſciple to St. <hi>John</hi> the <hi>Evangeliſt,</hi> writes thus in his Epiſtle to the <hi>Magneſians,</hi> inſtructing their Faith, in what ſort of Sufferings of <hi>Chriſt</hi> we were to <hi>Believe</hi> and <hi>Truſt,</hi> not theſe <hi>Inward</hi> in our <hi>hearts,</hi> but to diſtinguiſh moſt effectually from theſe, thoſe that He ſuffered under <hi>Pontius Pilate.</hi>
+               <q>
+                  <p>I would have you Preſerved, that you fall not into the ſnare of vain Doctrin; but that ye may abound, and be filled with the knowledge of the Birth, Paſſion, and Reſurrection, which truly, and firmly were of Jeſus Chriſt our hope, in the time of the Government of <hi>Pontius Pilate,</hi> from which let none of you be turned away.</p>
+                  <p>Stop your ears therefore (<hi>ſays he in his Epiſtle to the</hi> Tral<g ref="char:EOLhyphen"/>lians) when any ſhall ſpeak to you without Jeſus Chriſt.</p>
+               </q>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+            </p>
+            <p>What <hi>Chriſt</hi> was this? the <hi>Outward</hi> Man <hi>Jeſus,</hi> or the <hi>Light within?</hi> That Jeſus, <q>
+                  <p>
+                     <hi>who was of the ſtock of</hi> David, <hi>who was of</hi> Mary, <hi>who was truly Born, did both Eat and Drink; was truly Perſecuted under</hi> Pontius Pilate, <hi>was truly Crucify'd and Dyed — And who truly Roſe from the Dead, his Father Rai<g ref="char:EOLhyphen"/>ſing
+<pb n="5" facs="tcp:42880:5"/>
+of him; and his Father will, after the like faſhion, Raiſe us up in Jeſus Chriſt, who be<g ref="char:EOLhyphen"/>lieve in him, without whom we cannot truly live.</hi>
+                  </p>
+                  <p>But ſome <hi>Athieſts,</hi> that is, <hi>In<g ref="char:EOLhyphen"/>fidels,</hi> do ſay, <hi>That He only ap<g ref="char:EOLhyphen"/>pear'd to be a Man, but took not a Body in Reality, and in appearance only ſeemed to Suf<g ref="char:EOLhyphen"/>fer, and dye,</hi> &amp;c.</p>
+               </q>
+            </p>
+            <q>
+               <pb n="4" facs="tcp:42880:5"/>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:42880:5"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</p>
+            </q>
+            <p>And in the beginning of his Epiſtle to the <hi>Smyrnaeans,</hi> af<g ref="char:EOLhyphen"/>ter having Deſcrib'd that <hi>Chriſt</hi> who is the Object of our Faith, in the fulleſt manner, to obviate the Deceit of apply<g ref="char:EOLhyphen"/>ing it to an <hi>Inward</hi> Chriſt, by calling Him the <hi>Son of Da<g ref="char:EOLhyphen"/>vid, Born</hi> of the <hi>Virgin,</hi> and <hi>Baptized</hi> of <hi>John,</hi> truly <hi>Cruci<g ref="char:EOLhyphen"/>fied</hi> under <hi>Pontius Pilate,</hi> and <hi>Herod</hi> the Tetrarch; none of which can be apply'd to <hi>The Light within.</hi> He adds that we can only be ſaved by the Faith in this OUTWARD Je<g ref="char:EOLhyphen"/>ſus.
+<q>By the Fruits of whoſe Divinely Bleſſed Paſſion, <hi>we are Saved—</hi>For he ſuffer'd all theſe things for us, that we might be ſaved.</q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>And to Obviate the two <hi>Heretical</hi> Pretences, of making the <hi>Meritorious</hi> Suffering of <hi>Chriſt,</hi> to be His Suffering within us. And that His <hi>outward</hi> Sufferings, were not <hi>Real,</hi> but, in <hi>ap<g ref="char:EOLhyphen"/>pearance</hi> only, as not being Really a Man, but only Reſiding in that Man <hi>Jeſus,</hi> as in a <hi>Veil</hi> or <hi>Garment. Ignatius</hi> adds in the next words. <q>And he truly ſuffered, and truly Raiſed himſelf; not, as ſome <g ref="char:V">Ʋ</g>nbelie<g ref="char:EOLhyphen"/>vers ſay, that he only appeared to ſuffer, they but appearing to Exiſt. And as they Believe, ſo ſhall it be unto them, when they come to be out of the Body, and in the ſtate of Spirits;</q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q> that is, they ſhall juſtly Forfeit the <hi>True</hi> and <hi>Real</hi>
+               <pb n="6" facs="tcp:42880:6"/>
+Benefits Purchaſed for <hi>True Believers,</hi> by the <hi>death</hi> of <hi>Chriſt;</hi> ſince they will have it to be only in <hi>Appearance</hi> or <hi>Falſe ſhew;</hi> and take the <hi>Merit</hi> from the <hi>Outward death</hi> of <hi>Chriſt,</hi> which he ſuffer'd upon the <hi>Croſs,</hi> and place it in a Fancy'd Suffering of the <hi>Light within</hi> them.</p>
+            <p>And as He aſſerts the Faith in <hi>Chriſt</hi>'s outward <hi>Death,</hi> ſo does he, in His <hi>Reſurrection;</hi> not the <hi>Inward Riſing</hi> of <hi>Chriſt</hi> in our <hi>hearts,</hi> but in His <hi>Outward Reſurrection,</hi> that which was proved by their <hi>Handling</hi> of Him, and <hi>Feeling</hi> of His <hi>Fleſh,</hi> and His <hi>Eating</hi> and <hi>Drinking</hi> with them, after His <hi>Reſurrection.</hi>
+            </p>
+            <p>But, in the next Paragraph, he has a Prophetick Exhortation, which looks terribly upon the <hi>Quakers,</hi> among others. He tells the <hi>Smyrnaeans,</hi> that he gives them theſe Admonitions, not that he thinks them Guilty of theſe Hereſies.</p>
+            <q>
+               <p>But I Guard you before hand <hi>(ſays he)</hi> againſt Beaſts in Human ſhape, whom you ought not only not to Receive; but if it be poſſible, not ſo much as to meet with them, only to pray for them, if they may at laſt Repent, which will be difficult.</p>
+               <p>
+                  <hi>And again, ſays he, ſpeaking of our Lord</hi> Jeſus Chriſt, Whom ſome not knowing, do deny, or ra<g ref="char:EOLhyphen"/>ther, are denyed by him, being the Preachers of Death, rather than of Truth.</p>
+               <p>They abſtain from the Eucha<g ref="char:EOLhyphen"/>riſt, (<hi>that is, The</hi> Sacrament <hi>of the</hi> Lord<hi>'s</hi> Supper) and from the Prayers <hi>(of the Church)</hi> becauſe they do not confeſs that the Eucha<g ref="char:EOLhyphen"/>riſt is the fleſh of our Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt, which ſuffered for our ſins; and which the Father in his Goodneſs Raiſed up. But theſe ſpeaking againſt this Gift of God, die in their Inquiries.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>And <hi>vain</hi> and <hi>Death</hi> muſt thoſe <hi>Inquiries</hi> be, which, leaving the Gifts of God, the <hi>Sacraments</hi> of his own <hi>Inſtitution,</hi> and to which
+<pb n="7" facs="tcp:42880:6"/>
+His <hi>Promiſes</hi> are Annex'd, ſeek for <hi>Salvation</hi> in ways and means of their own Deviſing.</p>
+            <p>But it was unavoidable, that they who had left the Bo<g ref="char:EOLhyphen"/>dy of Chriſt, as a forſaken <hi>veil</hi> or <hi>garment,</hi> to Rot for ever in the Grave; or are careleſs what is come of it, as a thing now of no Vertue or Conſequence to us, ſhould Reject the <hi>Sacrament</hi> of it, which is a continual Exhibition of its <hi>vertues</hi> and <hi>efficacy</hi> to us: Or that they who hope for no <hi>Reſurrection</hi> of their <hi>Bodies</hi> out of the <hi>Duſt,</hi> ſhould continue the uſe of thoſe <hi>Sacraments</hi> which were ordained as <hi>ſigns</hi> and <hi>pledges</hi> of it.</p>
+            <p>But, if it pleaſe God that they ever Return to the <hi>Faith,</hi> it is to be hoped that they will then Re-aſſume theſe <hi>Guards,</hi> and <hi>Confir<g ref="char:EOLhyphen"/>mations;</hi> which are the outward <hi>vehicles,</hi> and <hi>aſſurance</hi> of it.</p>
+            <p n="3">III. The <hi>Third</hi> point is their Denyal of the <hi>Reſurrection</hi> and <hi>Future Judgment.</hi> For the Proof of this upon the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> I Refer to <hi>The Snake in the Graſs,</hi> Sect. xii. p. 152. and to <hi>Satan Diſ-Rob'd,</hi> Sect. iii. and iv. beginning at p. 26. and p. 21. of the <hi>Gleanings.</hi>
+            </p>
+            <p>Now we find full Proof, that this <hi>Hereſie</hi> was Broached in in the Days of the <hi>Apoſtles;</hi> and by them <hi>Condemn'd,</hi> as is plain from 1 <hi>Cor.</hi> xv. 12. <hi>&amp;c.</hi> and 2 <hi>Tim.</hi> 2.18. in which laſt <hi>Text,</hi> the very <hi>Quaker-ſalvo</hi> is expreſly ſet down, by which they have Betray'd themſelves into this Fatal <hi>Hereſie, viz.</hi> Saying that the <hi>Reſurrection</hi> is <hi>Paſt already,</hi> that is, Perform<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Inwardly, to thoſe who follow the <hi>Light,</hi> (ſee <hi>Satan Diſ-Rob'd,</hi> p. 21. of the <hi>Gleanings</hi>) and Mr. <hi>Penn</hi> underſtands that Full and Elegant Deſcription of the <hi>Reſurrection,</hi> 1 <hi>Cor.</hi> xv. all of this <hi>Inward</hi> and <hi>Allegorical Reſurrection;</hi> for in his Book; Intituled, <hi>The Invalidity of</hi> John Faldo<hi>'s Vindication,</hi> &amp;c. Prin<g ref="char:EOLhyphen"/>ted 1673. repeating <hi>ver.</hi> 44. of this <hi>Chapt.</hi> viz. <hi>It is ſown a Natural Body, it is Raiſed a Spiritual Body,</hi> he ſays p. 369. <hi>I do utterly deny, that this Text is concern'd in the Reſurrecti<g ref="char:EOLhyphen"/>on of Man's carnal Body, at all.</hi> And p. 370. <hi>I ſay this doth not concern the Reſurrection of carnal Bodys, but the two ſtates of Men under the firſt and ſecond</hi> Adam. And though as he objects, the 47 and 49 verſes <hi>ſeem to imply a</hi> Bodily Reſur<g ref="char:EOLhyphen"/>rection, <hi>But</hi> (ſays he) <hi>let the whole verſe be conſidered, and we ſhall find no ſuch thing.</hi>
+            </p>
+            <p>To the Arguments of the <hi>Apoſtles</hi> againſt this <hi>Hereſie,</hi> let me add ſome Teſtimonys of others their <hi>Co-temporary Fathers,</hi>
+               <pb n="8" facs="tcp:42880:7"/>
+or rather explain the Texts of the <hi>Apoſtles</hi> by their <hi>Comments,</hi> who learned this <hi>Article</hi> of the <hi>Faith</hi> from their mouths. The Texts above Quoted were wrote by St. <hi>Paul,</hi> who (<hi>Phil.</hi> iv. 3.) menti<g ref="char:EOLhyphen"/>ons <hi>Clement</hi> as his <hi>Fellow Labourer,</hi> and <hi>whoſe Name is in the book of Life:</hi> And he was as likely to know St. <hi>Paul</hi>'s meaning, as Mr. <hi>Penn,</hi> whom I deſire to read his 2d. Epiſt. to the <hi>Corinthians,</hi> where, N. ix. he will find theſe words.</p>
+            <q>Let none of you ſay, that this ſame fleſh is not judged, nor ſhall riſe again. <g ref="char:V">Ʋ</g>nderſtand, in what have ye been ſaved; was it not while ye were in this fleſh? there<g ref="char:EOLhyphen"/>fore it behoveth us to keep our fleſh, as the temple of God. For as ye have been called in the fleſh, ſo ſhall ye come in the fleſh. Jeſus Chriſt the Lord, who ſaveth us, was firſt a Spirit, and then made fleſh, and ſo he called us. So ſhall we Receive our Reward, in this very fleſh.</q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>St. <hi>Polycarp, Biſhop</hi> and <hi>Martyr,</hi> who <hi>flouriſhed</hi> about the Year of <hi>Chriſt,</hi> 70. and was Diſciple to St. <hi>John</hi> the <hi>Evangeliſt,</hi> in his Epiſtle to the <hi>Philippians,</hi> n. 7. ſays that
+<q>Whoever does not con<g ref="char:EOLhyphen"/>feſs the Martyrdom or ſuffering of <hi>Chriſt</hi> upon the Croſs, is of the Devil: And he that will wreſt the Oracles of <hi>Chriſt</hi> to his own Luſts, and ſay that there is no Reſurrection nor Judgment to come, he is the <hi>Firſt-Born</hi> of Sa<g ref="char:EOLhyphen"/>tan.</q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>And <hi>Hegeſippus,</hi> who lived near to the Days of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> in his Fifth Book; as Quoted by <hi>Euſebius</hi> (Hiſt. Eccl. l. 2. c. 23.) ſpeaking of theſe Ancient <hi>Hereticks,</hi> ſays, that <q>they did not believe either the Re<g ref="char:EOLhyphen"/>ſurrection, or the coming of <hi>Chriſt</hi> to render to every one ac<g ref="char:EOLhyphen"/>cording to his Works.</q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p n="4">
+               <pb n="9" facs="tcp:42880:7"/>IV. The Fourth Point, is their abſtaining from the <hi>Sacra<g ref="char:EOLhyphen"/>ments</hi> and <hi>Prayers</hi> of the <hi>Church.</hi> And for this, I have before quo<g ref="char:EOLhyphen"/>ted <hi>Ignatius</hi> to the <hi>Smyrnaeans,</hi> where he tells of thoſe who Abſtai<g ref="char:EOLhyphen"/>ned <hi>from the</hi> Prayers <hi>of the Church, and the</hi> Lord<hi>'s</hi> Supper, <hi>becauſe they did not believe it to be the</hi> Fleſh <hi>of</hi> Chriſt, <hi>which</hi> Suffered <hi>for our ſins, and was</hi> Raiſed <hi>up,</hi> &amp;c. For how could they who (as the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi>) made no more of the <hi>fleſh</hi> of <hi>Chriſt,</hi> than a <hi>Garment</hi> or a <hi>Vail,</hi> but no part of his <hi>Perſon,</hi> and conſequently could <hi>never call the Bodily Garment, Chriſt:</hi> And thought their own <hi>Fleſh</hi> and <hi>Blood</hi> to be the <hi>Fleſh</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> as well as the <hi>Fleſh</hi> and <hi>Blood</hi> of that Man <hi>Jeſus,</hi> in whom they ſay that <hi>Chriſt</hi> or the <hi>Light</hi> dwelt, as in themſelves (ſee <hi>Satan Dis-Rob'd,</hi> Sect. ii. n. 2. and 3. p. 2. and 3. of the <hi>Gleanings</hi>) and plac'd the <hi>Meritorious</hi> Cauſe of our <hi>Redemption,</hi> and <hi>Juſtification,</hi> not in the <hi>Blood</hi> of <hi>Chriſt</hi> outward<g ref="char:EOLhyphen"/>ly ſhed; but in the <hi>Allegorical</hi> or Inward <hi>Blood</hi> of their <hi>Light within, Inwardly</hi> and <hi>Inviſibly</hi> ſhed, <hi>&amp;c.</hi> I ſay, How could theſe endure a <hi>Sacrament</hi> ſo contrary to their Belief? For the <hi>Bread</hi> can<g ref="char:EOLhyphen"/>not be called the <hi>Fleſh</hi> of their <hi>Light within;</hi> but it was of His <hi>Outward Fleſh</hi> that <hi>Chriſt</hi> ſpake, when he ſaid, <hi>This is my Body,</hi> and His <hi>Outward Blood</hi> was ſaid to be ſhed for <hi>The Remiſſion of Sins.</hi>
+            </p>
+            <p>And the <hi>Euchariſt</hi> was ſuch a viſible <hi>Repreſentation</hi> of this, as could not but ſhock theſe <hi>Enthuſiaſt Hereticks.</hi>
+            </p>
+            <p>And where the <hi>Sacraments</hi> are Practiſed, ſuch mad <hi>Enthuſiaſm</hi> cannot take place. And we ſee, by woful Experience, that where theſe Guards of the <hi>Truth</hi> and <hi>Importance</hi> of <hi>Chriſt</hi>'s Outward <hi>Suf<g ref="char:EOLhyphen"/>ferings</hi> are taken away, Men fall, from the True <hi>Faith,</hi> in them.</p>
+            <p>But the <hi>Quakers</hi> have not only thrown off the Uſe and Practiſe of the <hi>Sacraments,</hi> and left them as things Indifferent, or Lawful to be Practiſed by ſuch as may be conſcientiouſly concern'd for them, but Damn them as <hi>Carnal,</hi> and <hi>Doctrines of Devils. G. Fox,</hi> in his <hi>News out of the North,</hi> Printed 1655. p. 14. makes them the like <hi>Witch-craft</hi> as turn'd the <hi>Galatians</hi> to <hi>Circumciſion. And their Sacrament</hi> (ſays he) <hi>as they call it, is carnal— And their Com<g ref="char:EOLhyphen"/>munion is carnal, a little Bread and Wine — Which is the Table of Devils, and Cup of Devils, which is in the Generation of Serpents in this Great City</hi> Sodom <hi>and</hi> Gomorrah, <hi>ſo duſt is the Serpents meat,</hi> &amp;c. And p. 39. <hi>You ſay that</hi> Matthew, Mark, Luke, <hi>and</hi> John, <hi>is the Goſpel, which is carnal — You ſay, that ſprinkling Infants is the Baptiſm, which Baptizeth them into the faith, and ſo into the Church,
+<pb n="10" facs="tcp:42880:8"/>
+which is carnal: And you tell People of a Sacrament, bringing them to Eat a little Bread and Wine, and ſay, that this is a Communion of Saints, which is carnal, and all this feeds the Carnal Mind,</hi> &amp;c. And he <hi>Blaſphemouſly</hi> ſays in his <hi>Title Page,</hi> that all this was <hi>Written from the mouth of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Edward Burrough,</hi> p. 190. of his <hi>Works,</hi> Printed 1672. ſays, <hi>Their Doctrines are of the devil, who —ſay ſprinkling Infants with water — is Baptiſm into the faith of Chriſt, this is the doctrine of the devil.</hi> And p. 191. <hi>Theſe have filled the world with damnable Hereſies, as holding forth, That ſprinkling Infants with water is Bap<g ref="char:EOLhyphen"/>tiſm into the faith of Chriſt,</hi> &amp;c. <hi>Theſe are damnable Hereſies, even to the denying the Lord that bought them.</hi> And p. 644. <hi>That it is not lawful for the Saints of God, to join themſelves to your Ordinances.</hi>
+            </p>
+            <p>This Hideous <hi>Blaſphemy</hi> and <hi>Outrage</hi> againſt the <hi>Divine Inſtitu<g ref="char:EOLhyphen"/>tions</hi> of our <hi>Lord,</hi> I hope will appear to be ſuch to the well-diſpo<g ref="char:EOLhyphen"/>ſed among the <hi>Quakers,</hi> who will be at the pains to Read my Diſ<g ref="char:EOLhyphen"/>courſe of <hi>Water-Baptiſm.</hi> It ſeems to have had ſome Effects al<g ref="char:EOLhyphen"/>ready, even with <hi>George Whitehead</hi> himſelf. For in his Anſwer to <hi>The Snake</hi> (whereto he adds a <hi>chapter</hi> upon that Diſcourſe of <hi>Baptiſm</hi>) he ſeems to come off that former <hi>Rigor</hi> of the <hi>Quakers,</hi> and ſays, p. 114. That as for thoſe who are <hi>More conſcientiouſly ten<g ref="char:EOLhyphen"/>der in the obſervation thereof, we are</hi> (ſays he) <hi>the more tender to theſe ſo as not to cenſure or condemn them meerly for Practiſing that which they believe is their duty, either in breaking of Bread, or Water-baptiſm.</hi>
+            </p>
+            <p>So that, by this, he yields the <hi>Practice</hi> of the <hi>Sacraments</hi> to be at leaſt <hi>Lawful,</hi> contrary to <hi>Burrough, Fox,</hi> and the Primitive <hi>Quakers;</hi> for, if it were not <hi>Lawful,</hi> I ſuppoſe he would not have that <hi>Tenderneſs</hi> for the <hi>Obſervation thereof,</hi> but would <hi>cenſure</hi> and <hi>condemn</hi> it, as thoſe others have done. I pray <hi>God</hi> perfect his Con<g ref="char:EOLhyphen"/>verſion, and let him ſee the <hi>Neceſſity</hi> as well as <hi>Lawfulneſs</hi> of it. And I would deſire him to conſider that if it be <hi>Lawful,</hi> it muſt be <hi>Neceſſary:</hi> For if <hi>Chriſt</hi> has not commanded <hi>Water-Baptiſm,</hi> it can<g ref="char:EOLhyphen"/>not be leſs than <hi>Superſtition</hi> to Practice that as a <hi>Sacrament,</hi> and con<g ref="char:EOLhyphen"/>ſequently as a <hi>Means</hi> of <hi>Grace,</hi> which he has not Commanded: Even the <hi>Church</hi> of <hi>Rome</hi> does not pretend to a Power to <hi>Inſtitute</hi> a <hi>Sacrament,</hi> that can be done by none but <hi>God</hi> alone: Therefore if <hi>Water-Baptiſm</hi> was not <hi>Inſtituted</hi> by <hi>Chriſt,</hi> it cannot be <hi>Law<g ref="char:EOLhyphen"/>ful</hi> to Practice it: And if he did <hi>Inſtitute</hi> it, it is not only <hi>Lawful,</hi> but <hi>Neceſſary,</hi> and a <hi>Duty.</hi> Now, in Aid of <hi>George Whitehead,</hi> and
+<pb n="11" facs="tcp:42880:8"/>
+by way of <hi>An Antidote againſt the venome of</hi> G. Fox, Burrough, <hi>and other ſoure Quakers;</hi> and to purſue the Deſign of this preſent Paper, I will, to the Authoritys of H. Scripture, which I have Produc'd in The <hi>Diſcourſe of Baptiſm,</hi> add in this place, as a ſure Comment and Explanation of them, the Teſtimonys of ſome of thoſe Fathers, whoſe Works we have Extant within the Compaſs of Years propoſed, that is, 150 Years after <hi>Chriſt,</hi> in witneſs to this <hi>Divine Inſtitution</hi> of <hi>Water-Baptiſm,</hi> and to ſhew what <hi>ſtreſs</hi> they laid upon it.</p>
+            <p>St. <hi>Ignatius,</hi> who was (as before-mentioned) bred under Saint <hi>John</hi> the Beloved Diſciple, makes our <hi>Baptiſm</hi> not only the <hi>Badge,</hi> but the <hi>Arms</hi> and <hi>Defence</hi> of our <hi>Faith;</hi> and the quitting of it to be a Deſerting of Chriſt.</p>
+            <q>Let no one of you (<hi>ſays he, in his</hi> Epiſt. <hi>to St.</hi> Polycarp) be found a Deſerter, but let your Baptiſm remain as your Armor.</q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>And St. <hi>Barnabas,</hi> who was St. <hi>Paul</hi>'s Fellow-Traveller, men<g ref="char:EOLhyphen"/>tioned ſo often in the <hi>Acts,</hi> ſpeaking, in his <hi>Catholick Epiſtle, chapt.</hi> xi. concerning Water and the Croſs, ſays, that, <q>It is written concerning Water to the People of <hi>Iſrael,</hi> that they ſhould not receive that Baptiſm which was ſufficient to the Pardon of ſins.</q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q> Which they did not under the <hi>Moſaical</hi> Diſpenſation. But they Inſtituted a <hi>Baptiſm</hi> to themſelves, whereby to admit Men as <hi>Proſelites</hi> to the Law: But that was not the <hi>Baptiſm</hi> which could take away Sin. No, nor the <hi>Baptiſm</hi> of <hi>John:</hi> That was the <hi>Peculiar</hi> one of the <hi>Chriſtian Baptiſm.</hi>
+            </p>
+            <p>A little after St. <hi>Barnabas</hi> ſays, that <hi>God</hi> had joyned the <hi>Croſs</hi> (that is, the Faith in CHRIST Crucified) and the <hi>Water</hi> (that is, <hi>Baptiſm</hi>) together, <hi>viz.</hi> the <hi>Inward</hi> Faith, and the <hi>Outward</hi> Pro<g ref="char:EOLhyphen"/>feſſion and Seal of it.</p>
+            <q>Conſider <hi>(ſays he)</hi> how He <hi>(God)</hi> has appointed the <hi>Croſs</hi> and the <hi>Water</hi> to the ſame end. For thus he ſaith, bleſſed are they who hoping in the <hi>Croſs,</hi> have gone down into the Water.</q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <pb n="12" facs="tcp:42880:9"/>And again, purſuing the ſame Argument, he Magnifys the great <hi>Efficacy</hi> and <hi>Power</hi> of BAPTISM, when duly Received, a few lines after what is above quoted, ſaying,
+<q>For we go down into the <hi>Water</hi> full of ſins and filthineſs; and come up again bearing fruit in our hearts by the fear and hope which is in <hi>Jeſus,</hi> which we have in the <hi>Spirit.</hi>
+               </q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>After the ſame manner, and in the like words ſpeaks St. <hi>Her<g ref="char:EOLhyphen"/>mas</hi> (whom St. <hi>Paul</hi> ſalutes <hi>Rom.</hi> 16.14.) in that only Remain<g ref="char:EOLhyphen"/>ing Work of his, called <hi>The Shepherd of</hi> St. <hi>Hermas,</hi> there in the 3d. Book, and 9th. Similitude, he ſpeaks thus:
+<q>Before a Man receives the Name of the <hi>Son</hi> of <hi>God,</hi> he is deſigned unto death: but when he receives that ſeal, he is de<g ref="char:EOLhyphen"/>livered from death, and given up to life. Now that ſeal is <hi>Water,</hi> into which Men go down, lyable to death, but come up a<g ref="char:EOLhyphen"/>gain, aſſigned over unto life.</q>
+               <q>Antequam enim accipiat ho<g ref="char:EOLhyphen"/>mo nomen Filii Dei, morti deſtinatus eſt: at ubi accipit illud ſigillum, liberatur a mor<g ref="char:EOLhyphen"/>te, &amp; traditur vitae. Illud au<g ref="char:EOLhyphen"/>tem ſigillum Aqua eſt, in quam deſcendunt homines morti o<g ref="char:EOLhyphen"/>bligati, aſcendunt vero vitae aſſignati.</q>
+            </p>
+            <p>I have taken this out of the Ancient <hi>Latin</hi> Tranſlation, accor<g ref="char:EOLhyphen"/>ding to the <hi>Oxford</hi> Edit. 1685. For the <hi>Greek</hi> was, in great part, loſt, and came not down to us intire, as this old <hi>Latin</hi> Verſion did.</p>
+            <p>St. <hi>Clement,</hi> in his 2d. <hi>Epiſt.</hi> to the <hi>Corinthians, Paragr.</hi> 8. calls <hi>Baptiſm</hi> by the ſame name of our Seal, and applys to it that Text, <hi>Iſa.</hi> lxvi. 24. which he renders thus.</p>
+            <q>They that have not kept their ſeal, their worm ſhall not die, <hi>&amp;c. Or, as he expreſſes it in the</hi> Paragr. <hi>before this,</hi> 
+               <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>leſs we keep our <hi>Baptiſm</hi> pure and undefiled, with what aſſurance can we enter the Kingdom of God?</q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </q>
+            <p n="5">V. The Fifth Point is their <hi>forbidding to Marry, and Preaching up of fornication.</hi> I charge not <hi>All</hi> the <hi>Quakers</hi> with this; no, nor the <hi>Greateſt Number</hi> of them. Only thoſe called <hi>New-Quakers</hi> in <hi>America,</hi> of whom, and this their <hi>Principle</hi> and <hi>Practice,</hi> an Account
+<pb n="13" facs="tcp:42880:9"/>
+is given in The <hi>Snake in the Graſs</hi> Sect. vi. n. x. Par. 11. p. 74. and Sect. xii. p. 160. But the <hi>Quakers</hi> are thus far anſwerable, That all this <hi>Wild Extravagance</hi> is a Natural Conſequence of their <hi>Common Principle</hi> and <hi>Notion</hi> of The <hi>Light within,</hi> as ſuch an <hi>Ab<g ref="char:EOLhyphen"/>ſolute Rule</hi> and <hi>Judge,</hi> that is not to be Controled by Scripture, or any Law or Rule whatſoever: Which leaves every Man in ſuch an Un-limited Latitude, that there is no <hi>Reſtraint</hi> to whatever the <hi>Wildeſt Imagination</hi> (ſo it be Strong enough) can ſuggeſt: Nor a<g ref="char:EOLhyphen"/>ny Cure upon their Foundation) but to bid him follow it ſtill on. Liſten to that <hi>within</hi> you That is all their <hi>Advice,</hi> and all their <hi>Rule.</hi>
+            </p>
+            <p>But beſides, I would fain know what Anſwer the <hi>Old Quakers</hi> can give to the <hi>New</hi> ones, upon their Principle; for the <hi>New</hi> threw off their <hi>Wives,</hi> becauſe they found it Written, That <hi>the children of the Reſurrection neither marry, nor are given in marriage.</hi> Now, as ſhewn in <hi>The Snake,</hi> Sect. xii and before ſpoke to, the <hi>Quakers</hi> General Notion is that the <hi>Reſurrection</hi> is Spiritual, and that every <hi>Regenerate</hi> Man has obtained it already. And ſome of the Chief and Oldeſt of them have declared, that they expect no other than what they have obtained already, or at leaſt, ſhall at<g ref="char:EOLhyphen"/>tain before they leave this body. See <hi>Satan Dis-Robed</hi> p. 21. of the <hi>Gleanings.</hi>
+            </p>
+            <p>Now let me ask the <hi>Old Quakers:</hi> Are they the <hi>Children of the Reſurrection?</hi> They muſt anſwer <hi>Yea,</hi> or go againſt their own a<g ref="char:EOLhyphen"/>vowed <hi>Principles.</hi> And if <hi>Yea,</hi> then the Text is plain againſt their Marrying.</p>
+            <p>Let me ask again. Are they <hi>the Children of this World?</hi> They will all ſay, <hi>Nay,</hi> for that is the common Epither by which they deſcribe the <hi>Wicked;</hi> and is a Term that they put in oppoſition to <hi>the Children of the light,</hi> which they beſtow upon <hi>themſelves.</hi> Now it is written, That <hi>the children of this world marry.</hi> Therefore, ſay the <hi>New Quakers,</hi> Marriage is a Wicked Thing, and conſequently of the Devil: And the <hi>Old Quakers</hi> have not yet anſwered their Arguments, that I can hear of. And the <hi>New Quakers</hi> do vouch themſelves to be the only True and Genuine <hi>Quakers,</hi> who fol<g ref="char:EOLhyphen"/>low their Principles up to the height. Nor do they want <hi>Anti<g ref="char:EOLhyphen"/>quity</hi> in all this. The <hi>Gnoſtick Quakers,</hi> who boaſted in their Light beyond all other Men, and called themſelves (as the <hi>Quakers</hi> do) the <hi>Pureſt</hi> and moſt <hi>Perfect</hi> of Chriſtians; held theſe ſame Prin<g ref="char:EOLhyphen"/>ciples, and Practiſed them, in the very days of the <hi>Apoſtles,</hi> And
+<pb n="14" facs="tcp:42880:10"/>
+they are Reprehended, and our Later <hi>Hereticks,</hi> who ſhould fol<g ref="char:EOLhyphen"/>low their ſteps, Propheſied of 1 <hi>Tim.</hi> iv. 1, 2, 3.</p>
+            <p n="6">VI. The Sixth Point is, <hi>Their Contempt of Magiſtracy and Go<g ref="char:EOLhyphen"/>vernment.</hi> This is ſhewn, as to the <hi>Quakers,</hi> in <hi>The Snake,</hi> p. 94. and in Sect. xviii. and xix. more largely. <hi>George Fox</hi> in his <hi>Great Miſtery,</hi> Printed 1659. p. 76. ſays, <hi>The Power of God — ſtrikes down Government of Men and Governours.</hi> And p. 90. <hi>And ſo</hi> (ſays he) <hi>for the</hi> Lord<hi>'s ſake the Saints cannot be ſubject to that Power.</hi> And he Argues (though very falſly) that, <hi>The</hi> Jews <hi>of old time could not obey the</hi> Heathen <hi>Magiſtrates — Nor the</hi> Apoſtles <hi>could not bow to the Authority of the</hi> Jews — <hi>Nor that among the</hi> Gentiles, <hi>held up by the</hi> Magiſtrates. I ſay all this is moſt Falſe; for the <hi>Jews</hi> did o<g ref="char:EOLhyphen"/>bey the <hi>Heathen</hi> Magiſtrates; and the <hi>Apoſtles</hi> both the <hi>Jews</hi> and and <hi>Gentiles,</hi> and that, not only for <hi>Wrath,</hi> but alſo for <hi>Conſcience</hi> ſake. But it ſhew'd what <hi>Fox</hi> meant, <hi>viz.</hi> That the Saints are not under the Dominion of the Worlds Rulers, whom they think to have no other Authority than that of the Devil. Accordingly <hi>Fox</hi> ſays <hi>(ibid.) For it was the</hi> Beaſts <hi>Power hath ſet up your Tythes, Temples, and Colledges.</hi> This will include all the <hi>Governments</hi> up<g ref="char:EOLhyphen"/>on the Earth: For there is none but have ſome of theſe; hardly any but have them <hi>All.</hi> And then down go All, if the <hi>Quakers</hi> prevail.</p>
+            <p>But to come to our Point. This <hi>Wicked Hereſie</hi> was born into the World in the days of the <hi>Apoſtles,</hi> and ſet up by the then <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> That the Receiving of Chriſtianity did Exempt Men from the Service of <hi>
+                  <g ref="char:V">Ʋ</g>n-believers,</hi> whether Maſters or Magiſtrates. Which occaſioned the many Repeated Exhortations in the Epi<g ref="char:EOLhyphen"/>ſtles, eſpecially of the <hi>Apoſtle</hi> of the <hi>Gentiles,</hi> to be ſubject both to Maſters and Magiſtrates, though <hi>
+                  <g ref="char:V">Ʋ</g>n-believers.</hi> And there were thoſe <hi>Jews</hi> in our Saviours time, who, upon the ſame account, thought it not Lawful to give Tribute to <hi>Coeſar,</hi> being then an <hi>Heathen.</hi> They thought that the <hi>Jews</hi> were not to ſubmit to the Dominion of the <hi>Heathen.</hi> And <hi>Judas</hi> of <hi>Galilee,</hi> mentioned in <hi>Act.</hi> 5.37. drew away much People after him, upon the ſame Pretence, of not paying Taxes to the <hi>Romans, Joſeph.</hi> (de <hi>Bell. Jud.</hi> l. 2. <hi>c.</hi> 7.) ſays, he Taught that no Tribute ſhould be paid to the <hi>Romans.</hi> But he went further (a thorow <hi>Quaker</hi>) for he would have had all Magiſtrates taken away, and <hi>God</hi> only to be <hi>King.</hi> I ſuppoſe (as the <hi>Quakers</hi>) he would have been Content that the
+<pb n="15" facs="tcp:42880:10"/>
+Government ſhould have come into his own hand, and to ſome <hi>Saints</hi> under him, as <hi>Deputys</hi> from <hi>God!</hi> Such he made his <hi>Gaulo<g ref="char:EOLhyphen"/>nites</hi> or <hi>Galileans</hi> who followed him. For the meaning of thoſe who find fault with the <hi>Government</hi> of others, is commonly to ſeize up<g ref="char:EOLhyphen"/>on it for themſelves, (and they ſeldom mend the matter) tho' their pretence is always to ſet up the Kingdom of <hi>God</hi> and His <hi>Saints.</hi>
+            </p>
+            <p>Such <hi>Gaulonites</hi> or <hi>Galileans</hi> are the <hi>Quakers,</hi> who, in a <hi>Declara<g ref="char:EOLhyphen"/>tion</hi> to the <hi>Preſent diſtracted Nation of</hi> England, (Printed 1659. Penn'd by <hi>Edw. Burrough,</hi> and ſubſcrib'd by <hi>Fifteen</hi> of the Cheif of the <hi>Quakers,</hi> in the name of all the reſt) p. 8. do Proclaim that they have choſen a <hi>King, (viz.</hi> their own <hi>Light within,</hi> which they call the <hi>Son</hi> of <hi>God</hi>) and that it is <hi>His only Right to Rule in Nations,</hi> and their <hi>Heirſhip</hi> (as being only his Faithful Subjects) <hi>to poſſeſs the uttermoſt parts of the Earth:</hi> And that <hi>He may command thou<g ref="char:EOLhyphen"/>ſands and ten thouſands of</hi> (theſe) <hi>his Saints, at this day, to</hi> Fight — mark that, to <hi>Fight,</hi> even with the <hi>Carnal</hi> Sword, to Regain their <hi>Right.</hi> But in the Reprinting of <hi>Burrough</hi>'s Works, 1672, it was thought convenient to leave out this Paſſage (p 603. of his works) tho' it was ſaid to be given forth by the <hi>Spirit</hi> of <hi>God,</hi> and in <hi>His Name.</hi> It is ſet down more at large in <hi>The Snake,</hi> p. 209.</p>
+            <p>The ſame <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarchy</hi> and <hi>Heirſhip</hi> of the <hi>Quakers</hi> is aſ<g ref="char:EOLhyphen"/>ſerted by <hi>Samuel Fiſher,</hi> in a Collection that he Printed of ſeveral <hi>Meſſages</hi> which he ſaid he had, <hi>By Commiſſion from God,</hi> to deliver to the then <hi>Protector</hi> and <hi>Government,</hi> 1656. The laſt of which bears this Title. <hi>The Burden of the Meſſage of the Lord it ſelf,</hi> there p. 32. ſpeaking of the <hi>Quakers</hi> and their <hi>King,</hi> ſays, <hi>He in them, and they in him ſhall Rule the Nations with a Rod of Iron, and break them to pieces as a Potters Veſſel — And every tongue that riſeth up in Judgment againſt them ſhall they condemn.</hi> And p. 33. he brings in <hi>God,</hi> ſaying, <hi>yea, I will never reſt till I have made all their Foes their Foot-ſtool: And howbeit the Powers of the Earth are of me — I will utterly ſubvert and overturn them; and bring the Kingdoms and Dominions, and the Greatneſs of the Kingdom under the whole Heaven into the hands of the Holy Ones of the moſt High, and give unto my Son, and his Saints to Reign over all the Earth, and to take all the Rule and Authority, and Power that ſhall ſtand up againſt my Son in his Saints.</hi> There is the Myſtery couch'd in the laſt words. <hi>In his Saints,</hi> that is the <hi>Light within</hi> (which they call <hi>Chriſt) in</hi> the <hi>Quakers:</hi> And to which they aſ<g ref="char:EOLhyphen"/>cribe all that is ſaid of <hi>Chriſt</hi> in the Scriptures.</p>
+            <p>
+               <pb n="16" facs="tcp:42880:11"/>
+               <hi>Edw. Burrough</hi> writing from <hi>Dublin</hi> in <hi>Ireland</hi> to the <hi>Quakers</hi> in <hi>England,</hi> in the Year 1655. Directs thus, <hi>To the Camp of the Lord in</hi> England. This is p. 64. of his Works. And he was then for their beginning of their <hi>War</hi> to Conquer the whole Earth. He Exhorts them, p. 67 in their <hi>Conqueſts</hi> to be very <hi>ſevere</hi> and <hi>bloo<g ref="char:EOLhyphen"/>dy,</hi> to ſpare none. <hi>Give the great Whore</hi> (ſays he, that is <hi>Rome) double into her boſom; as ſhe hath loved blood, ſo give her blood, and daſh her Children againſt the ſtones.</hi> This was for all the <hi>Popiſh</hi> Countrys, and thoſe who partook of their Abominations, which in their Account were all the Proteſtants too, whom they, in con<g ref="char:EOLhyphen"/>tempt called <hi>Profeſſors;</hi> and <hi>All ſects in theſe Nations,</hi> whom <hi>Burrough</hi> includes in his Epiſt. 10 the <hi>Reader,</hi> p. 1<g ref="char:punc">▪</g> and declares <hi>War</hi> againſt them. But were the <hi>Heathens</hi> then to eſcape? No, their Conqueſt and Empire was to be <hi>
+                  <g ref="char:V">Ʋ</g>niverſal,</hi> their <hi>Heirſhip</hi> did extend to the uttermoſt parts of the Earth. For thus he goes on, <hi>(<g ref="char:V">Ʋ</g>t ſupra) Let none of the Heathen Nations, nor their Gods eſcape out of your hands — but lay waſte the fenced Cities, and tread down the high walls, for we have proclaimed open War betwixt</hi> Michael <hi>our Prince and the</hi> Dragon — <hi>And curſed be every one that riſeth not up, to the help of the Lord againſt the mighty. Put on your Armour, and gird on your ſword, and lay hold on the ſpear, and march into the Field, and prepare your ſelves to the Battle, for the Nations doth defie our God, and ſaith in their hearts, who is the God of the</hi> Quakers, <hi>that we ſhould fear him, and obey his voice? — Our Enemies are whole Nations, and multitudes in number, of a Rebellious People that will not come under our Law</hi> (a great Fault indeed!) <hi>ſtand upon your feet, and Ap<g ref="char:EOLhyphen"/>pear in your terror as an Army with Banners; and let the Nations know your power, and the ſtroke of your hand: Cut down on the right hand, and ſlay on the left; and let not your eye pitty, nor your hand ſpare,</hi> &amp;c. And in his <hi>Trumpet of the Lord ſounded,</hi> which he calls <hi>An Alarum and Preparation for War againſt all Nations where</hi> Gog <hi>and</hi> Magog <hi>reſideth,</hi> Printed 1656. p. 32. he ſays to the <hi>Quakers, your deſpiſed Government ſhall rule over Kingdoms, and your laws ſhall all the Nati<g ref="char:EOLhyphen"/>ons of the earth become ſubject unto.</hi> And p. 41. He expoſtulates with God, <hi>When wilt thou appear to lay their honour in the duſt of Confuſion? Thy Hoſt and Choſen waiteth for a Commiſſion from thee to do thy will. And thy Camp waiteth to ſee the honour of Kings and Princes over<g ref="char:EOLhyphen"/>thrown by thee,</hi> &amp;c. But it ſeems the <hi>Quakers</hi> would make uſe of the <hi>ſwords</hi> of the <hi>wicked,</hi> till their own were ready. Therefore in the
+<pb n="17" facs="tcp:42880:11"/>
+Year 1659. they had great Hopes in the <hi>Rebel</hi> Engliſh <hi>Army;</hi> who ha<g ref="char:EOLhyphen"/>ving Deſtroy'd the <hi>King,</hi> and the <hi>Church</hi> in theſe Kingdoms, <hi>Burrough</hi> Hoalloos them (in his Epiſt. to them, p. 537.) upon <hi>Italy</hi> and <hi>Spain,</hi> and all the <hi>Popiſh</hi> Countrys: <hi>For what are theſe few poor Iſlands</hi> (ſays he) <hi>that you have run through? in compariſon of the great Part of</hi> Chri<g ref="char:EOLhyphen"/>ſtendom, <hi>in which</hi> Idolatry — <hi>do abound — wherefore, Hew down the Tops, ſtrike at the Branches, make way, that the Ax may be laid to the root of the Tree, that your ſword, and the ſword of the Lord may neither leave Root nor Branch of</hi> Idolatry — <hi>to avenge the blood of the Guiltleſs thro' all the Dominions of the</hi> Pope, <hi>the blood of the Juſt it crys thro'</hi> Italy, <hi>and</hi> Spain — <hi>and it would be your honour to be made uſe of by the Lord, in any degree, in order to this matter.</hi> They were to be made uſe of, <hi>in ſome degree,</hi> to clear the way for the <hi>Quakers,</hi> who were, at laſt, to have <hi>All.</hi> Now whether theſe have not out-ſtript their Fore<g ref="char:EOLhyphen"/>runner <hi>Judas,</hi> and his <hi>Galileans,</hi> I leave the Reader to judge. And Proceed to the next.</p>
+            <p n="7">VII. The <hi>Seventh</hi> and laſt Point which I intend to ſpeak of, is now come, and is ſo near of kin to the laſt, that I ſhall diſpatch it quickly. It is, <hi>Their ſtiffneſs in not taking off their Hats, or giving Men their Civil Titles.</hi> Ther needs no Proof of this, as to the <hi>Quakers,</hi> for they All own it, it is their <hi>Liſcriminating Character.</hi>
+            </p>
+            <p>And now to find a Precedent for them in <hi>Antiquity,</hi> the ſame <hi>Judas Galilaeus</hi> is ready at hand. <hi>Joſephus</hi> tells (<hi>Antiq. Jud.</hi> l. 18. c. 2.) that he was the Head of a Fourth <hi>Sect</hi> among the <hi>Jews,</hi> which he him<g ref="char:EOLhyphen"/>ſelf (like <hi>George Fox</hi>) Founded. And that as he acknowledg'd but one <hi>Lord</hi> and <hi>Maſter,</hi> that is, <hi>God;</hi> ſo as a conſequence of this, he would pay honour to none other; and ſo <hi>Obſtinate</hi> were his <hi>Sect</hi> in this, That, as <hi>Joſeph.</hi> tells in the <hi>chapt.</hi> laſt quoted, <hi>they would rather expoſe themſelves, their Children and Relations to the moſt cruel Tor<g ref="char:EOLhyphen"/>ments, than call any mortal Man Lord or Maſter.</hi> So that <hi>George Fox</hi> has not the <hi>Honour</hi> of this noble <hi>Invention,</hi> as he would make us believe in his <hi>Journal,</hi> p. 24. where he ſays, <hi>When the</hi> Lord <hi>ſent me forth in<g ref="char:EOLhyphen"/>to the world, He forbad me to put off my Hat to any — And I was requi<g ref="char:EOLhyphen"/>red to</hi> Thee <hi>and</hi> Thou <hi>all men and women.</hi> He would call none <hi>Lord</hi> or <hi>Maſter</hi> more than <hi>Judas.</hi> And their <hi>Inſpirations</hi> came from the <hi>ſame Author;</hi> the <hi>Spirit</hi> of <hi>Pride,</hi> under the <hi>Guiſe</hi> of <hi>Humility;</hi> ſo that in this, and all the other Inſtances before mentioned, <hi>George Fox</hi> is de<g ref="char:EOLhyphen"/>priv'd of the <hi>Glory</hi> of being an <hi>Original,</hi> and to be <hi>No man's Copy,</hi> as is Boaſted of him, in the <hi>Preface</hi> to his <hi>Journal,</hi> p. 31. I do not ſup<g ref="char:EOLhyphen"/>poſe
+<pb n="18" facs="tcp:42880:12"/>
+that he knew a tittle of theſe <hi>Ancient Precedents,</hi> only <hi>Good wits Jump'd;</hi> and ſo exactly, as ſhews, That they were all <hi>Taught</hi> by the ſame Maſter.</p>
+            <div type="conclusion">
+               <head>The <hi>CONCL<g ref="char:V">Ʋ</g>SION.</hi>
+               </head>
+               <p n="1">1. What Application now needs to be made, from all that has been ſaid, to the <hi>Quakers?</hi> The thing ſhews it ſelf. Let them not call it <hi>Malice</hi> and <hi>Envy</hi> and what not, to oppoſe them. We oppoſe the Primitive <hi>Hereſies</hi> in them. We cannot but <hi>oppoſe</hi> them: Un<g ref="char:EOLhyphen"/>leſs we would <hi>Condemn</hi> the <hi>Apoſtles</hi> and Primitive <hi>Fathers,</hi> who have <hi>Condemned</hi> them. I charitably believe that the <hi>Quakers,</hi> at leaſt, the <hi>Generality</hi> of them, do not know, nor, may be, have heard of theſe Ancient <hi>Hereſies,</hi> or that they have ſo literally lick'd them up. But now they do know, let them conſider, and ſee how they have put <hi>Darkneſs</hi> for <hi>Light,</hi> and <hi>Light</hi> for <hi>Darkneſs!</hi>
+               </p>
+               <p n="2">2. But if the <hi>Quakers</hi> ſay, as of late they have begun to do, That they are <hi>Mis-repreſented,</hi> that they do not hold theſe <hi>Vile Hereſies,</hi> and <hi>Errors</hi> Charg'd againſt them, nor ever did hold them. Let the Reader judge of that by the <hi>Quotations</hi> which are produc'd out of their moſt Approved <hi>Authors,</hi> in <hi>The Snake,</hi> and <hi>Satan Dis-Rob'd;</hi> of all which <hi>G. Whitehead,</hi> in what is called his <hi>Anſwer,</hi> does not deny one: But pleads <hi>Not Guilty,</hi> without offering to Diſprove the <hi>Evi<g ref="char:EOLhyphen"/>dence</hi> brought againſt them. However, That is not my Buſineſs now. I am willing they ſhould <hi>come off</hi> as eaſily as they can: Provided they do <hi>come off,</hi> and mean not this to <hi>Deceive</hi> us.</p>
+               <p n="3">3. Let it then be ſuppos'd, that the Modern Repreſentations they have given of their <hi>Notion</hi> of <hi>The light within,</hi> and of other their <hi>Doctrines</hi> (ſince the <hi>oppoſitions</hi> they have lately met with) are the <hi>True</hi> and <hi>Genuin</hi> ſenſe of what they held from the beginning: And, when truly explained and underſtood, the ſame, and no more than what the <hi>Ch.</hi> of <hi>England,</hi> and all ſober <hi>Chriſtians</hi> have always held.</p>
+               <p>If ſo, then they muſt begin again to give a new Account of their <hi>Separation,</hi> and ſo violent a <hi>Separation</hi> as they have made, not only from the <hi>Ch.</hi> of <hi>England</hi> but all the <hi>Churches</hi> in the World, as <hi>Edw. Burrough,</hi> p. 416. of his <hi>Works, And ſo all you Churches and Sects, by what name ſoever you are known in the world, you are the ſeed of the great Whore.</hi> And p. 17. of his <hi>Epiſt.</hi> to the <hi>Reader</hi> he tells him, <hi>Thou mayſt fully perceive we differ in Doctrines and Principles; and the one thou muſt juſtifie, and the other thou muſt condemn, as being one clean contrary to the other in our Principles.</hi> And p. 1. he ſays, <hi>We have ſufficient cauſe
+<pb n="19" facs="tcp:42880:12"/>
+to cry againſt them, and to deny their Miniſtry, their Church, their Wor<g ref="char:EOLhyphen"/>ſhip, and their whole Religion.</hi> What ſhall we do now! Now we A<g ref="char:EOLhyphen"/>gree in nothing! our <hi>Whole Religion</hi> is <hi>Condemned:</hi> And ther is no <hi>Compounding:</hi> we muſt <hi>Condemn</hi> the <hi>One,</hi> and <hi>Juſtifie</hi> the <hi>other.</hi> Here is Foul-Play on ſome ſide! By ſome <hi>Modern Ac<g ref="char:EOLhyphen"/>counts,</hi> it is hard to diſtinguiſh wherein the <hi>Doctrines</hi> of the <hi>Ch.</hi> of <hi>England,</hi> and thoſe of the <hi>Quakers,</hi> do differ. Particu<g ref="char:EOLhyphen"/>larly in their <hi>Fundamental Principle</hi> of <hi>The Light within,</hi> on which all the Reſt do Depend, as it is Explained by Mr. <hi>Penn</hi> in his late <hi>Primitive Chriſtianity,</hi> and in <hi>The Snake,</hi> Sect. i. and Sect. xxii. except the Particular hereafter excepted, they are the ſame; and Mr. <hi>Penn</hi> asks no more (upon the Main) than what is not only <hi>Allowed,</hi> but <hi>Practiſed,</hi> and always has been, and that <hi>Dayly,</hi> in our <hi>Common Prayers,</hi> by the <hi>Ch.</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> yes, and by our <hi>Diſſenters</hi> too; ſo that now we are very <hi>Good Friends</hi> again! And the <hi>Difference</hi> betwixt us, upon this Point, is no ways ſufficient to Juſtifie any <hi>Separation.</hi> And ſo of the other Points of <hi>Doctrine,</hi> as, of late Explained. And for the <hi>Sacraments, G. Whitehead</hi> allows them to be <hi>Lawful,</hi> and let ſuch <hi>Practice</hi> them, as ſo think fit. Then ther is no ground for their <hi>Separation</hi> from us, for our Practice of what themſelves Allow to be <hi>Lawful.</hi> And for <hi>Epiſcopacy,</hi> that is a matter of <hi>Government,</hi> not of <hi>Worſhip,</hi> ſo that we might join in Worſhip for all that. And the <hi>Biſhops</hi> Exerciſe no o<g ref="char:EOLhyphen"/>ther <hi>Power</hi> than what is uſed amongſt the <hi>Quakers,</hi> to <hi>Diſown</hi> thoſe who will not walk according to the Rules of the <hi>Socie<g ref="char:EOLhyphen"/>ty.</hi> And their <hi>Power</hi> herein is much Curbed by the Laws, and <hi>Appeals</hi> lye from their <hi>Sentence</hi> to the <hi>Secular Courts,</hi> which are not Allowed in the <hi>Quaker-Diſcipline.</hi>
+               </p>
+               <p>Now, to bring this matter to an Iſſue, in a <hi>Friendly</hi> manner, without <hi>Ripping</hi> up or <hi>Confronting</hi> Former <hi>Teſtimonies,</hi> it is de<g ref="char:EOLhyphen"/>ſired, That Mr. <hi>Penn,</hi> or any other for him, would ſhew ſuch Differences betwixt his Explanation of the <hi>Light within,</hi> and that in <hi>The Snake,</hi> as are ſo <hi>Material,</hi> to juſtifie a <hi>Separation;</hi> and ſo of the other Points Treated of in his <hi>Primitive Chri<g ref="char:EOLhyphen"/>ſtianity.</hi>
+               </p>
+               <p>And herein let him and them Conſider the Grievouſneſs of the Sin of <hi>Schiſm;</hi> even as Enforced by them againſt their own <hi>Separatiſts;</hi> it is a Tearing the <hi>Body</hi> of <hi>Chriſt</hi> in pieces; and
+<pb n="20" facs="tcp:42880:13"/>
+turning the <hi>Heaven</hi> of <hi>Chriſtianity,</hi> into a <hi>Hell</hi> of <hi>Confuſion.</hi> Let us Act herein <hi>Manfully;</hi> for we Fight for our own <hi>Souls,</hi> the <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> and <hi>Joy</hi> of <hi>Chriſtendom,</hi> the <hi>Honour</hi> of <hi>Religion,</hi> and the <hi>Glory</hi> of <hi>God,</hi> who <hi>knows</hi> our <hi>Hearts,</hi> and will <hi>Reward</hi> our <hi>Sincerity.</hi> He, through whoſe Holy <hi>Inſpiration</hi> only, we think thoſe things that be Right<g ref="char:EOLhyphen"/>ful, <hi>Prevent</hi> us, in all our <hi>Doings,</hi> with His moſt <hi>Gracious Favour; Further</hi> us with His Continual <hi>Help,</hi> and <hi>Pardon</hi> all our <hi>Infirmities,</hi> in the Proſecution of theſe Glorious Ends, through <hi>Jeſus Chriſt,</hi> our <hi>Lord;</hi> who for theſe ſame Ends, <hi>Dyed, Roſe, Aſcended,</hi> and will come again, in that ſame <hi>Body,</hi> to <hi>Reward</hi> and to <hi>Judge</hi> every Man accor<g ref="char:EOLhyphen"/>ding to what he has been <hi>
+                     <g ref="char:V">Ʋ</g>ſeful,</hi> or <hi>Prejudicial</hi> to theſe Ends. To whom with the <hi>Father,</hi> and the <hi>Eternal Spirit,</hi> be All <hi>Power, Ho<g ref="char:EOLhyphen"/>nour,</hi> and <hi>Glory,</hi> from All <hi>Creatures, Converted Sinners</hi> eſpecially, now, and for ever.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="expostulation">
+            <head>A <hi>Friendly Expoſtulation</hi> with Mr. <hi>Penn,</hi> upon Account of his <hi>Primitive Chriſtianity,</hi> lately Publiſhed.</head>
+            <p n="1">1. I Have ſaid before, how near Mr. <hi>Penn</hi> has brought the <hi>Quaker</hi> Principles (as he has, of late, Repreſented them) to the <hi>Doctrin</hi> of the <hi>Ch.</hi> of <hi>England,</hi> and the <hi>Common Principles</hi> of <hi>Chriſtianity.</hi> But I would deſire to Expoſtulate a little with him upon one Part of his Expoſition of <hi>The Light within,</hi> p. 29. where he is not ſatisfied with what we allow, <hi>viz.</hi> that it does <hi>Influence</hi> and <hi>Aſſiſt</hi> our <hi>Natural Light;</hi> but he will not grant that we have any <hi>Natural Light</hi> at all, or any other than that <hi>Divine Light</hi> of the <hi>Word,</hi> which is <hi>God;</hi> which he ſays, <hi>ſome, miſtakenly, call</hi> Natural <hi>Light.</hi> As <hi>G. Fox</hi> ſays, in his <hi>Great Miſtery,</hi> p. 42. where he oppoſes this <hi>Tenet, That no man by that Native</hi> Light <hi>inherent in him, had Power to Believe,</hi> &amp;c. G. F. Anſwers, <hi>The</hi> Light <hi>that doth enlighten every man</hi> (which is their de<g ref="char:EOLhyphen"/>ſcription of the <hi>Light within) he calls it</hi> Native <hi>and</hi> Inherent: <hi>The names he gives of</hi> Native <hi>and</hi> Inherent, <hi>are his own, out of the Truth.</hi> Here he denys any <hi>Natural</hi> Light, and will have none other but the <hi>Divine</hi> Light <hi>within.</hi> But to go on with Mr. <hi>Penn,</hi> he ſays, p. 30. and 31. That the <hi>Scripture</hi> makes no diſtinction between <hi>Natural</hi> and <hi>Spiritual</hi> Light, and Provokes any to give ſo much as one <hi>Text</hi> to that Purpoſe; he makes it as Abſurd, as to talk of a <hi>Natural</hi> and <hi>Spiritual</hi> Darkneſs <hi>within.</hi> He ſays, <hi>There are not two Lights from God in man, that Regard Religion.</hi> Not that <hi>Reproves</hi> or <hi>Condemns</hi> a Man for <hi>Sin.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:42880:13"/>But how then does he Anſwer the <hi>Objection,</hi> which he puts againſt himſelf, of the many <hi>Falſe Religions</hi> in the world? It was not the <hi>True Light</hi> which guided men into them. And if they have no other <hi>Light,</hi> how came they by them? He ſays, it was becauſe they did not follow the <hi>True Light.</hi> But why did they not follow it? How could they help following of it, if they had nothing elſe to follow? What was it that Reſiſted It? Or, What could Reſiſt It, if we have no <hi>Natural Light</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> to Refuſe its Dictates? But ſuppoſe our <hi>No Light</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> could ſhut its eyes, and not follow this <hi>light;</hi> then it might loſe the <hi>True Religion?</hi> But could <hi>no-underſtanding</hi> invent another <hi>Religion?</hi> For that is ſomething <hi>Poſitive;</hi> and ſomething muſt Guide and Direct Men to it. The <hi>Abſence</hi> of <hi>Light</hi> is <hi>Darkneſs,</hi> not a <hi>Falſe-light.</hi> But an <hi>Ig<g ref="char:EOLhyphen"/>nis Fatuus,</hi> or <hi>Will i'th Wiſp,</hi> is a <hi>Light</hi> that leads Men <hi>wrong.</hi> Men that are in <hi>Error</hi> follow a <hi>Light,</hi> but it is <hi>Falſe-light,</hi> and they think themſelves to be in the <hi>Right.</hi> Our <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtandings</hi> have a <hi>Natural,</hi> which is a <hi>Fallible-light;</hi> and there<g ref="char:EOLhyphen"/>fore often leads us wrong. What elſe is the meaning of <hi>Prov.</hi> 3.5. <hi>Truſt in the Lord with all thine heart, and lean not unto thine own <g ref="char:V">Ʋ</g>nderſtanding.</hi> It is true, that <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> and the <hi>Natural light</hi> of it, was given us by <hi>God:</hi> And He made it <hi>Right</hi> and <hi>True;</hi> but <hi>Fallible,</hi> elſe it could never be miſtaken. God has plac'd a <hi>Natural light,</hi> as a <hi>Candle</hi> in our <hi>Hearts;</hi> and His <hi>Super-natural light</hi> does <hi>Influence</hi> and <hi>Direct</hi> it, when we ſeek to Him for it, and ſerve Him according as He has com<g ref="char:EOLhyphen"/>manded: <hi>Solomon</hi> ſays, <hi>Prov.</hi> xx. 27. <hi>The Spirit of man is the Candle of the Lord, ſearching all the Inward Parts.</hi> You will not call the <hi>Spirit</hi> of <hi>Man</hi> the Eternal <hi>Light,</hi> which is GOD. This was the Miſtake which drove <hi>George Fox</hi> to make our <hi>Soul</hi> a <hi>Part</hi> of <hi>God,</hi> without <hi>Beginning,</hi> and <hi>Infinite in it ſelf,</hi> &amp;c. as ſhewn in <hi>The Snake,</hi> Sect. ii. and to make us even <hi>Equal</hi> with <hi>God,</hi> as ſhewn, <hi>Sect.</hi> iii. And Mr. <hi>Penn,</hi> p. 15. of this Book, <hi>(Primit. Chriſtian.)</hi> allows no <hi>Natural light</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing, For</hi> (ſays he) <hi>Man can no more be a Light to his Mind than he is to his Body:</hi> And thence inferrs, that as the <hi>Eye</hi> has no <hi>Light</hi> in it ſelf, ſo neither the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding:</hi> He makes our <hi>Nature</hi> and <hi>Minds</hi> wholly <hi>Dark</hi> of themſelves, only ſucceptible of <hi>Super-natural light,</hi> when ſent into our Underſtanding: And
+<pb n="22" facs="tcp:42880:14"/>
+that all the <hi>Light</hi> we have is thus <hi>Super-natural;</hi> and only cal<g ref="char:EOLhyphen"/>led <hi>Natural,</hi> becauſe, as he ſays, <hi>It is Natural to Man to have a Super-natural light.</hi> I will not take advantage of the <hi>Philoſo<g ref="char:EOLhyphen"/>phy</hi> of this; for, I ſuppoſe his meaning to be, that it is <hi>Na<g ref="char:EOLhyphen"/>tural</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> to Receive a <hi>Light</hi> that is infus'd in<g ref="char:EOLhyphen"/>to it, as for the <hi>Eye</hi> to ſee by an <hi>Extraneous light;</hi> that is, it is an <hi>Organ</hi> fitted to Receive <hi>Light,</hi> tho' it has none in it ſelf; as the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> to <hi>Apprehend,</hi> tho' it has no <hi>Reaſon</hi> or <hi>Light</hi> in it ſelf. Thus he expreſſes it, p. 50. <hi>All Men have Rea<g ref="char:EOLhyphen"/>ſon,</hi> (ſays he) <hi>but all Men are not Reaſonable;</hi> which muſt be ta<g ref="char:EOLhyphen"/>ken with the ſame grains of Allowance. For every Man is a <hi>Reaſonable Creature,</hi> that is, the <hi>Definition</hi> of a <hi>Man.</hi> But ac<g ref="char:EOLhyphen"/>cording to his <hi>Hypotheſis,</hi> tho' all men have <hi>Reaſon,</hi> yet not <hi>Natural,</hi> but <hi>ſuper-naturally</hi> put into their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding:</hi> And ſo, tho' they have <hi>Reaſon,</hi> yet are they not <hi>Reaſonable,</hi> becauſe that <hi>Reaſon</hi> is none of their own, only as <hi>Gifted,</hi> that is, <hi>Acci<g ref="char:EOLhyphen"/>dental,</hi> but not <hi>Natural</hi> to them; and ſo they can no more be called <hi>Rational,</hi> than a <hi>Bagg</hi> can be called <hi>Rich,</hi> that has <hi>Money</hi> in it. For he ſays, p. 15. <hi>That</hi> God, <hi>is the Light of our Nature, of our minds, and underſtandings.</hi> If it were meant as an <hi>Aſſiſtant, Guide</hi> or <hi>Director,</hi> to the <hi>Light</hi> of our <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> ther were no difference betwixt us: But quite to put out the <hi>Natural light</hi> of our <hi>underſtandings,</hi> and make it but only <hi>Paſſive,</hi> that is, <hi>ſucceſptible</hi> of another <hi>light,</hi> that is the point on which I would <hi>Reaſon</hi> now with Mr. <hi>Penn.</hi> It is ſaid 1 <hi>Cor.</hi> 1.21. <hi>That the World by Wiſdom knew not God.</hi> What <hi>Wiſ<g ref="char:EOLhyphen"/>dom</hi> was this? it could not be a <hi>Divine light;</hi> and if Man have no <hi>Natural light;</hi> it muſt be the <hi>Quaker</hi> third ſort of <hi>light,</hi> that is, <hi>No light at all.</hi> But if by <hi>Wiſdom</hi> here, you mean Mens <hi>Natural light</hi> or <hi>Reaſon,</hi> the <hi>Text</hi> is <hi>Plain</hi> and <hi>Eaſie.</hi>
+            </p>
+            <p>It is Written, 1 <hi>Joh.</hi> 3.20. <hi>If our Heart Condemn us,</hi> God <hi>is greater than our heart, and knoweth all things.</hi> Now, by <hi>Heart,</hi> here muſt be meant the <hi>Natural light;</hi> becauſe, if it means the <hi>Light</hi> which is <hi>God, God</hi> is not Greater than <hi>Himſelf.</hi> And it is ſuppoſed here that the <hi>Heart</hi> does not Know all Things: Therefore this muſt be meant of our <hi>Natural Conſcience,</hi> and not of <hi>God.</hi> And now here is a <hi>Natural light,</hi> which does <hi>Re<g ref="char:EOLhyphen"/>prove of Evil,</hi> which Mr. <hi>Penn</hi> ſuppoſes cannot be ſhewn, p. 30. Our <hi>Saviour</hi> ſays, <hi>Luk.</hi> xii. 57. <hi>Yea, and why even of your ſelves
+<pb n="23" facs="tcp:42880:14"/>
+judge not what is Right?</hi> But why <hi>of your ſelves,</hi> if we have no <hi>Light</hi> at all <hi>of our ſelves</hi> whereby to <hi>Judge?</hi>
+            </p>
+            <p>I find a great <hi>Light</hi> of the <hi>Quakers, Edw. Burrough,</hi> owning theſe <hi>Two</hi> Lights <hi>within,</hi> in his <hi>Warning to <g ref="char:V">Ʋ</g>nderbarrow,</hi> 1654. p. 16. and 17. of his <hi>Works</hi> Re-printed 1672<g ref="char:punc">▪</g> where ſpeaking of ſome of the <hi>Worlds People, whoſe Light</hi> (ſays he) <hi>is only Natural and Carnal, and doth only make manifeſt Carnal Tranſgreſſions, and who Judge by the</hi> Na<g ref="char:EOLhyphen"/>tural <hi>light, &amp;c.</hi> This being Objected by <hi>John Stalham,</hi> in his <hi>Revi<g ref="char:EOLhyphen"/>ler Rebuked,</hi> p. 282. as a Contradiction to what other <hi>Quakers</hi> had ſaid of the <hi>Light. Richard Hubberthorn</hi> (a <hi>Quaker</hi> of the Firſt Rank) undertakes the Defence of <hi>Burrough,</hi> which you find in his <hi>Works,</hi> Re-printed 1663. p. 144. where he ſays that <hi>Burrough</hi> was Miſ-re<g ref="char:EOLhyphen"/>preſented, in that <hi>Stalham</hi> would have had him ſay, that the <hi>Light</hi> of <hi>Chriſt</hi> was <hi>Natural</hi> and <hi>Carnal,</hi> which he ſays <hi>Burrough</hi> did not mean; but the <hi>Light of Man</hi> (ſays he) <hi>by which Carnal Men do judge of Carnal Tranſgreſſions, is Natural — And Mans light, by which Car<g ref="char:EOLhyphen"/>nal men do Judge of any thing, is one thing, and the light of</hi> Jeſus Chriſt, <hi>which is Spiritual mens Guide, is another thing.</hi> Here are <hi>Two</hi> Lights <hi>within</hi> moſt plainly, which Mr. <hi>Penn</hi> does ſo poſitively Oppoſe.</p>
+            <p>But which of theſe Lights guided Mr. <hi>Penn,</hi> and which <hi>Hubber<g ref="char:EOLhyphen"/>thorn</hi> and <hi>Burrough?</hi> For it could not be the ſame Light that guided to Two Lights, and not to Two!</p>
+            <p>And now it will be time, to ask from Mr. <hi>Penn</hi> a Solution of the Difficulty which he Propoſes p. 29. that is, <hi>To aſſign us ſome certain</hi> Medium, <hi>or</hi> Way, <hi>whereby we may truly diſcern, and diſtinguiſh between the Manifeſtations and Reproofs of the</hi> Natural Light <hi>within, from thoſe of the</hi> Divine Light <hi>within.</hi> He propoſed this as a Difficulty upon the Opinion of Two Lights within, a <hi>Natural,</hi> and a <hi>Divine.</hi> And preſſes it againſt thoſe who held that the <hi>Natural</hi> Light could <hi>Reprove of Evil;</hi> if which were granted, he would yield that ther muſt be Two Lights. But he ſuppoſes that nothing but the <hi>Divine</hi> Light could <hi>Reprove of Evil.</hi> The Contrary of which has been ſhewn from 1 <hi>Joh.</hi> 3.20. and allowed both by <hi>Burrough</hi> and <hi>Hubber<g ref="char:EOLhyphen"/>thorn,</hi> who both (in the places above Quoted) do aſſert that the <hi>Na<g ref="char:EOLhyphen"/>tural</hi> Light does <hi>Reprove</hi> of <hi>Carnal Tranſgreſſions:</hi> And therefore, if <hi>Carnal Tranſgreſſions</hi> be <hi>Evil,</hi> the <hi>Natural</hi> Light does <hi>Reprove of Evil.</hi>
+            </p>
+            <p>But that which I would Improve from this, and for which I have been ſo long upon it, is, to Repreſent to Mr. <hi>Penn</hi> the Conſequence
+<pb n="24" facs="tcp:42880:15"/>
+of this Opinion of his. For if I think that my <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> is a Perfect <hi>Blank,</hi> uncapable to <hi>Judge</hi> any thing <hi>of it ſelf,</hi> that is, by the <hi>Natural</hi> Light which <hi>God</hi> has given it: But that every <hi>Thought</hi> of my <hi>Heart,</hi> concerning <hi>Religion,</hi> is <hi>Super-natural,</hi> Darted in there Im<g ref="char:EOLhyphen"/>mediately by <hi>God</hi> Himſelf, by the very <hi>Life</hi> of <hi>the Word Eternal,</hi> Then muſt I follow every ſuch <hi>Thought,</hi> even without <hi>Examination,</hi> and Refuſe to let it be <hi>Over-Ruled,</hi> either by the <hi>Written Word</hi> of the <hi>Scriptures,</hi> or by All the <hi>Reaſon</hi> or <hi>Authority</hi> of <hi>Men</hi> or <hi>Angels.</hi> And if ſuch <hi>Thought</hi> be <hi>Erroneous,</hi> I am <hi>
+                  <g ref="char:V">Ʋ</g>n-moveable</hi> and <hi>Irrecoverable!</hi> This is the moſt <hi>Deſperate Condition</hi> of which Man is Capable in this world. Therefore this <hi>ſtumbling Block</hi> muſt be Removed before we can proceed any further. And this is that, which keeps the <hi>Quakers</hi> ſo Deaf to all Arguments, <hi>Charm</hi> we never ſo <hi>wiſely!</hi>
+            </p>
+            <p>It was this which Confirm'd <hi>Gilpin, Toldervy, Milner,</hi> and other <hi>Quakers,</hi> that their <hi>Diabolical Poſſeſſions</hi> (owned now as ſuch by all the <hi>Quakers</hi>) and the <hi>Quaker-witches</hi> who Attempted the lives of <hi>Henry Winder</hi> and his Wife (ſee the Story in <hi>The Snake,</hi> p. 300.) and tho' <hi>Diſproved, Confuted,</hi> and <hi>Confounded</hi> many ways in all their <hi>Accuſati<g ref="char:EOLhyphen"/>ons</hi> againſt them, yet ſtill to ſtick to it, and could never be brought to <hi>Repentance,</hi> or to own themſelves <hi>Miſtaken.</hi> Why? Becauſe they had this <hi>Notion, That what came into their minds, was the</hi> Light <hi>of</hi> Chriſt.</p>
+            <p>And ſo it muſt be, if ther be no other <hi>Light</hi> in the <hi>mind</hi> but that of <hi>Chriſt,</hi> except we allow of a <hi>Diabolical.</hi> And then ther are <hi>three</hi> ſorts, <hi>Natural, Divine,</hi> and <hi>Diabolical.</hi>
+            </p>
+            <p>Unleſs you will ſay, That a <hi>Falſe-light</hi> (as the <hi>Diabolical</hi> is) ought not to be Reckon'd a <hi>Light.</hi> But that will not do. Becauſe what Guides, or Directs, or Perſwades, <hi>that</hi> is called a <hi>Light:</hi> And you may as well ſay, That a <hi>Falſe-Guide</hi> is no <hi>Guide,</hi> as that a <hi>Falſe-light</hi> is no <hi>Light:</hi> Thus it is, that <hi>Satan</hi> Transforms himſelf into an <hi>Angel</hi> of <hi>Light.</hi> And, as our <hi>Saviour</hi> has fore-warned us, That the <hi>Light</hi> in ſome Men is <hi>Darkneſs.</hi> Not that <hi>Light</hi> is <hi>Darkneſs,</hi> but what Men take for <hi>Light;</hi> and that is a <hi>Light</hi> or <hi>Guide</hi> to them, though a <hi>Falſe</hi> One. And then how we ſhall know the one from the other? That is a Material Queſtion which you have ask'd, and which now Returns up<g ref="char:EOLhyphen"/>on you.</p>
+            <p>What is that <hi>Spirit</hi> of the <hi>Prophets,</hi> that is Subject to the <hi>Pro<g ref="char:EOLhyphen"/>phets?</hi>
+               <pb n="25" facs="tcp:42880:15"/>
+Is it the <hi>Divine</hi> Light <hi>within?</hi> is <hi>God Subject</hi> to the <hi>Pro<g ref="char:EOLhyphen"/>phets?</hi> Muſt you not then allow a <hi>Natural</hi> Light? <hi>Ceaſe from thine own Wiſdom,</hi> Prov. xxiii. 4. Can ther be <hi>Wiſdom</hi> without <hi>Light? Wiſdom</hi> is <hi>Light.</hi> Muſt I then <hi>Ceaſe</hi> from the <hi>Divine</hi> Light? or is ther not Another? And how ſhall I know <hi>mine own</hi> Light, from the <hi>Divine</hi> Light?</p>
+            <p>We are Commanded not to <hi>Believe</hi> every <hi>Spirit,</hi> but to <hi>Try</hi> the <hi>Spirits,</hi> 1 <hi>Joh.</hi> iv. 1. How ſhall we <hi>Try</hi> them? By Themſelves! Muſt I Try the <hi>Spirit</hi> or <hi>Light</hi> in my <hi>Heart,</hi> by it ſelf? Ask it, whe<g ref="char:EOLhyphen"/>ther it be a <hi>True Light,</hi> or not? It ſays it is. So do all <hi>Deceivers</hi> ſay, ſo does every <hi>Falſe-Spirit</hi> ſay; then I muſt not take its word: But I muſt <hi>Try</hi> it. And I ask again, <hi>How Try it?</hi> Therefore it muſt be by ſomething elſe than it ſelf. And what is that? Now we are near the Truth. For, Mr. <hi>Penn,</hi> the Caſe ſtands thus.</p>
+            <p>God has given a <hi>Natural Light</hi> to our <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> but a <hi>Falli<g ref="char:EOLhyphen"/>ble</hi> one; therefore it needs <hi>Help,</hi> and our own <hi>Endeavours.</hi> The Principal Help is the <hi>Influence</hi> and <hi>Light,</hi> of the <hi>Holy-Spirit</hi> of <hi>God,</hi> which works together with our <hi>Light,</hi> and Enables it to work. Be<g ref="char:EOLhyphen"/>ſides this, <hi>God</hi> has given us a <hi>Rule</hi> to walk by. Plain Directions in <hi>writing,</hi> which we may <hi>Study,</hi> and have always Before us. That is, The <hi>Holy Scriptures;</hi> and His <hi>Light,</hi> will open, that is, <hi>Help</hi> our <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> in the <hi>Reading</hi> and <hi>Studying</hi> of the <hi>Scriptures;</hi> but that Implys we muſt <hi>Read</hi> and <hi>Study;</hi> we muſt uſe our <hi>Endeavours,</hi> elſe He can not <hi>Help</hi> our <hi>Endeavours:</hi> We muſt not Ly in the <hi>Ditch,</hi> and cry <hi>God Help us;</hi> uſe no <hi>Outward Helps,</hi> which <hi>God</hi> has <hi>Appointed;</hi> but fold our <hi>Arms,</hi> and <hi>ſit ſtill,</hi> and <hi>gape</hi> for <hi>Extraordinary Inſpirations,</hi> which is a <hi>Tempting</hi> of <hi>God,</hi> inſtead of <hi>waiting</hi> upon <hi>Him.</hi>
+            </p>
+            <p>Then <hi>God</hi> has Appointed other <hi>Helps</hi> beſides the <hi>Scriptures,</hi> He has Conſtituted a <hi>Church,</hi> and an <hi>Order</hi> of Men to <hi>Teach</hi> us, to Help us to <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand</hi> the <hi>Scriptures;</hi> and to Adminiſter the <hi>Sacraments</hi> to us, which <hi>Chriſt</hi> has Commanded; and Promiſed the Aſſiſtance of His H. <hi>Spirit</hi> to thoſe who ſhall Reverently, as He has Appointed, approach unto them.</p>
+            <p>We have likewiſe the <hi>Helps</hi> of <hi>Hiſtorys,</hi> and <hi>Human-Learning,</hi> to know former Times, to obſerve the <hi>Riſe</hi> and <hi>Growth</hi> of <hi>Hereſies,</hi> and to beware, leſt we Fall into the like <hi>Snares</hi> of the <hi>Devil.</hi>
+            </p>
+            <p>But if we will <hi>Neglect</hi> all theſe <hi>Helps;</hi> nay, <hi>Vilifie</hi> and <hi>Deſpiſe</hi> them, cry out upon them as <hi>Low, Carnal,</hi> and what not; and Direct <hi>God</hi> to work <hi>Miracles</hi> for us, while we Refuſe to work, to ſend ſuch an
+<pb n="26" facs="tcp:42880:16"/>
+               <hi>Irreſiſtable</hi> and <hi>Infallible Light</hi> into our <hi>Hearts,</hi> as may, without any Pains on our ſide, ſecure us <hi>Abſolutely;</hi> and ther is an End on't! If we will thus Alter our own <hi>Frame,</hi> and the whole <hi>Method</hi> of <hi>God</hi>'s Diſpenſations, it is but juſt with <hi>God</hi> to give us up to follow our own <hi>Imaginations,</hi> and let us feel the Effect of our <hi>Folly.</hi>
+            </p>
+            <p>But now, on the other hand, if we will be Content to fol<g ref="char:EOLhyphen"/>low <hi>God</hi> in His way: To acknowledge what we <hi>Feel</hi> and <hi>Know,</hi> that we have a <hi>Free-will</hi> within us, and an <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing,</hi> which has <hi>Natural</hi> Powers, to <hi>Judge,</hi> and <hi>Diſcern,</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſider;</hi> and will uſe the <hi>Helps</hi> God has given us; then, and not till then, are we in a Capacity to be <hi>Reaſon'd</hi> with; to Judge and Try our own <hi>Spirits,</hi> and other Mens, by the Plain <hi>Rule</hi> of <hi>God</hi>'s H. Word; and if we find they ſpeak not according to that, then to Reject them. Then may we Expect the Aſſi<g ref="char:EOLhyphen"/>ſtance of God's B. <hi>Spirit</hi> to Inform our <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings,</hi> and lead us into All Truth neceſſary for us.</p>
+            <p>For, what ever the <hi>Quakers</hi> think, the <hi>Ch.</hi> of <hi>England</hi> has always Acknowledg'd the <hi>Influences</hi> and <hi>Inward Operation</hi> of the B. <hi>Spirit</hi> of <hi>God</hi> upon our <hi>Hearts,</hi> as the Cauſe of All the Good that is wrought in us; which is ſufficiently ſhewn in <hi>The Snake,</hi> Sect. xxii.</p>
+            <p>And this has been all along the Doctrin of the <hi>Catholick Church,</hi> which I might Prove at length; but that is not the Point in which we are, at Preſent, engag'd: Yet for the ſatisfaction of the <hi>Quakers</hi> who may not know this, I will ſet down two <hi>Canons</hi> of the <hi>Council</hi> of <hi>Carthage,</hi> which was held in the year of our Lord, 419.</p>
+            <q>
+               <p>
+                  <hi>Can. 113.</hi> Whoever ſays, That the grace of God, by which a man is Juſtify'd through Jeſus Chriſt our Lord, avails only for the Remiſſion of ſins that are already paſt, but does not alſo give ſtrength to reſiſt ſin for the future, Let him be Ana<g ref="char:EOLhyphen"/>thema. For the grace of God does not only give us the knowledge of what we ought to do, but alſo inſpires us with love, whereby we may be en<g ref="char:EOLhyphen"/>abled to Perform thoſe things which we know to be our duty. Likewiſe
+<pb n="27" facs="tcp:42880:16"/>
+whoſoever ſhall ſay, that this grace of God, which is thro' Jeſus Chriſt our Lord, does help us to avoid ſin, only as the knowledge of ſin is made manifeſt to us by it, whereby we know what we ought to ſeek after, &amp; what to avoid; but that ſtrength is not given us by it, that what we know we ought to do, we may alſo love it, and be enabled to perform it, Let him be Anathema.</p>
+               <p>
+                  <hi>Can. 114.</hi> Whoſoever ſhall ſay that the grace of Juſtification was therefore given unto us, that what we could perform by our own free-will, we may do the more eaſily by grace; inſomuch, that tho' grace had not been given, we might, tho' with difficulty, perform the divine Commandments without it, Let him be Anathema. For, concerning the fruits of the Commandments, The <hi>Lord</hi> did not ſay that without me, ye ſhall do them with difficulty; but He ſaid, without me, ye can do nothing.</p>
+            </q>
+            <q>
+               <pb n="26" facs="tcp:42880:16"/>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:42880:16"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>This Conſtant Doctrin of the Church, the <hi>Quaker Infallibility</hi> did not know that ſhe had ever held; and therefore ſet it up as a New <hi>diſcovery</hi> of their own, and broke with the Church for it. And to Advance <hi>Divine Grace,</hi> they would extinguiſh <hi>Human Reaſon,</hi> which is a <hi>Divine Grace</hi> it ſelf, and the Subject given unto us by <hi>God,</hi> whereupon His B. Spirit ſhould work.</p>
+            <p>And to Diveſt us of it, is to make us ceaſe to be <hi>Men,</hi> inſtead of being <hi>Saints.</hi>
+            </p>
+            <p>It makes <hi>God</hi> the ſole <hi>Author</hi> of all our <hi>Sin;</hi> for if we have no <hi>Natural-Light,</hi> we can have no <hi>Free-will;</hi> are only <hi>Paſſive</hi> in <hi>God</hi>'s Hands, acted by Him, but do nothing of our ſelves, and therefore are not anſwerable for any thing that we do; more than a <hi>Sword</hi> or a <hi>Pen</hi> are Blame-worthy for whatever uſe is made of them.</p>
+            <p>
+               <pb n="28" facs="tcp:42880:17"/>This Arraigns the Wiſdom of God, in all the <hi>Inſtitutions</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi> that ever He gave to Men. For, what need of ſuch Helps to the <hi>Divine</hi> Light! and Mr. <hi>Penn</hi> ſays we have no other. Why then does he Preach? To whom doth he Preach? To the <hi>Divine</hi> Light in Men? (as <hi>G. Fox,</hi> and the <hi>Primitive Quakers</hi> us'd to ſpeak) Can he <hi>Teach</hi> that? Cannot that <hi>guide</hi> Men without his Preaching? If he ſays that he only Preaches to perſwade Men to follow that <hi>Light.</hi> But cannot the <hi>Light</hi> Teach even that too? Or has it Forgot it? Does it need <hi>Help</hi> in that? Then why not in other things? then is it not <hi>ſelf-ſufficient</hi> without <hi>ſomething elſe.</hi>
+            </p>
+            <p>Nay, by this Principle, ther was no need of <hi>Chriſt</hi>'s coming into the World, at leaſt of His <hi>dying</hi> for us: For Men had the <hi>Divine</hi> Light before. And what could the Man <hi>Jeſus</hi> add to that? Was it not <hi>ſufficient</hi> without <hi>Him?</hi> If not, then you want ſomething elſe be<g ref="char:EOLhyphen"/>ſides your <hi>Light within:</hi> But if it was <hi>ſufficient</hi> without <hi>Him,</hi> then could not His Coming be <hi>Neceſſary.</hi> I deſire to know what you differ herein from the <hi>Deiſts?</hi> They hold a <hi>Divine Light</hi> Planted by <hi>God</hi> in the Heart of Man, which they call <hi>Reaſon:</hi> And that this is <hi>ſufficient,</hi> without any thing elſe, to Teach a Man all that he ought to <hi>Know</hi> or <hi>Do.</hi> This <hi>Divine Light</hi> you call the <hi>Light within:</hi> So that you Differ from them but in <hi>Words:</hi> Both of you Reject the Neceſſity of any <hi>Outward Revelation,</hi> that is, of a <hi>Chriſt without.</hi> And ſo are the ſame with all the <hi>Pagan</hi> or <hi>Gentile</hi> World. For they too (and the latter <hi>Mahometans</hi>) allow <hi>Jeſus</hi> to have been a Good Man; and to have had this <hi>Divine Light</hi> (which you call <hi>Chriſt</hi>) within Him, as all other Men have: But this does not make Him <hi>Properly the Son of God;</hi> which you alſo <hi>utterly deny</hi> Him to be, as ſaid be<g ref="char:EOLhyphen"/>fore, p. 3. This is Literally that <hi>Anti-Chriſtianiſm</hi> which is Repre<g ref="char:EOLhyphen"/>hended, 1 <hi>Joh.</hi> 2.22. of Denying <hi>Jeſus</hi> to be the <hi>Chriſt.</hi> For hav<g ref="char:EOLhyphen"/>ing of the <hi>Light</hi> in me, does not make me to be the <hi>Light:</hi> But <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> not only had the <hi>Light</hi> in Him, but He was the <hi>Light,</hi> or <hi>Chriſt;</hi> which it is <hi>Blaſphemy</hi> to ſay of any other. And yet, if Man have no other <hi>Light</hi> in him but the <hi>Divine,</hi> and that be made Part of his <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> it muſt follow that he is <hi>God:</hi> For whoever does <hi>Properly</hi> par<g ref="char:EOLhyphen"/>take of the <hi>Divine Nature,</hi> is ſo.</p>
+            <p n="2">2. But now whatever Mr. <hi>Penn</hi> thinks of my <hi>Reaſoning,</hi> (which by his own Principle, muſt be the Immediate Dictate of the <hi>Holy Ghoſt,</hi> if I have no <hi>Natural</hi> Light which taught it me) yet he can have no Reaſon to break <hi>Communion</hi> with us, upon
+<pb n="29" facs="tcp:42880:17"/>
+this Account, more than with <hi>Hubberthorn, Burrough,</hi> or other <hi>Quakers</hi> who held the ſame, as <hi>James Naylor,</hi> and others. I cou'd ſhew, if that were worth the while. And though <hi>James Naylor</hi> was Cenſur'd by the <hi>Quakers</hi> for other things, yet ne<g ref="char:EOLhyphen"/>ver for this; and he was Receiv'd again into Favour, and Liv'd and Dy'd in their <hi>Communion.</hi>
+            </p>
+            <p n="3">3. This hinders not, by Mr. <hi>Penn</hi>'s own Acknowledgment, they and we being all of one <hi>Religion.</hi> For he ſays, p. 62. <hi>I know not how properly they may be call'd of divers</hi> Religions, <hi>that aſſert the</hi> True God <hi>for the Object of</hi> Worſhip; <hi>The Lord</hi> Jeſus Chriſt, <hi>for the only Saviour; and the</hi> Light <hi>or</hi> Spirit <hi>of</hi> Chriſt, <hi>for the Great</hi> Agent <hi>and</hi> Means <hi>of Mans Converſion and Eternal Felicity.</hi>
+            </p>
+            <p>Now all this, Mr. <hi>Penn,</hi> the <hi>Church</hi> of <hi>England</hi> does moſt ſincerely and heartily <hi>Believe,</hi> and ever have <hi>Profeſs'd</hi> it: And therefore, if we be not of divers <hi>Religions,</hi> why of divers <hi>Communions!</hi>
+            </p>
+            <p n="4">4. Again, your Expoſition of <hi>Juſtification,</hi> p. 79. That you acknowledge Juſtification <hi>only for the ſake of the Death and Suf<g ref="char:EOLhyphen"/>ferings of Chriſt; and nothing we can do,</hi> (ſay you) <hi>though by the</hi> Operation <hi>of the</hi> Holy Spirit, <hi>being able to Cancel old Debts, or wipe out old Scores: It is the Power and Efficacy of that Propiti<g ref="char:EOLhyphen"/>atory offering, upon Faith and Repentance, that Juſtifies us from the ſins that are paſt; and it is the Power of</hi> Chriſt<hi>'s Spirit in our hearts, that Purifies, and makes us Acceptable before God.</hi> All this is moſt <hi>Sound</hi> and <hi>Orthodox.</hi> And your whole <hi>Ninth</hi> Chapter concerning the <hi>Inward</hi> and <hi>Spiritual</hi> Appearance of <hi>Chriſt</hi> in the <hi>Soul,</hi> I not only <hi>Approve,</hi> but do very much <hi>Con<g ref="char:EOLhyphen"/>gratulate</hi> with you, that you have ſo <hi>Chriſtianly</hi> and <hi>Patheti<g ref="char:EOLhyphen"/>cally</hi> Preſs'd it. I know you will not ſuſpect me of <hi>Flattery:</hi> For, where ther is occaſion, I ſpeak Plain enough. This <hi>Cauſe</hi> Requires not <hi>Dodging.</hi> Let us Contend for the <hi>Truth,</hi> on what<g ref="char:EOLhyphen"/>ever ſide it lys. It is for our own <hi>Souls.</hi> And we muſt give an Account.</p>
+            <p>How do you keep up a <hi>Schiſm,</hi> if you agree with us in theſe <hi>Fundamentals</hi> of <hi>Religion! Small Matters,</hi> you know, are not ſufficient to excuſe a <hi>Schiſm. Great</hi> things are to be <hi>done,</hi> and <hi>much</hi> to be <hi>Born</hi> to Compaſs ſuch <hi>good</hi> of <hi>ſouls.</hi>
+            </p>
+            <p>Therefore let me conſider All your Objections.</p>
+            <p n="1">
+               <pb n="30" facs="tcp:42880:18"/>1. Chap. x. Sect. 1. You Inſiſt much upon the <hi>Spirituality</hi> and <hi>Life</hi> of <hi>Prayer.</hi> In the name of God, carry that as High as you can, you ſhall find no oppoſition from us: For without this, <hi>All Prayer,</hi> in whatever <hi>words,</hi> whether <hi>Ex-tempore,</hi> or <hi>Pre-meditated,</hi> are but <hi>Dead Forms.</hi> And an <hi>Ex-tempore</hi> Prayer, is only <hi>Ex-tempore</hi> as to the <hi>Speaker,</hi> if he has not thought of it before: But it is as much a <hi>Form</hi> to the <hi>Hearers,</hi> as if he had thought of it; if they join with him, they are ty'd to his <hi>words</hi> and <hi>method,</hi> and every thing elſe of his <hi>Prayer.</hi> So that the Queſtion is ill ſtated, to call <hi>Pre-meditated</hi> Prayer a <hi>Form,</hi> and the other not. Both are <hi>Forms,</hi> and equally <hi>Forms</hi> to the <hi>Hearers:</hi> But the True State of the Queſtion is this, whether an <hi>Ex-tempore,</hi> or a <hi>Pre-meditated</hi> FORM, is moſt Beneficial to the <hi>Hearers?</hi> Which can be freed from moſt <hi>Defects?</hi> And which beſt fitted to the Common Exigencies of the People?</p>
+            <p>If the Heart cannot be ſuppos'd to be <hi>Spiritually</hi> lifted up in the uſe of any <hi>Form,</hi> then muſt All <hi>Publick</hi> Prayer ceaſe. Then was <hi>The Lords Prayer</hi> Un-fitting ever to be us'd; or the <hi>Pſalms</hi> of <hi>David,</hi> which were daily Read in the <hi>Temple,</hi> and compoſed for that End.</p>
+            <p>But if the <hi>ſoul</hi> may be <hi>ſpiritually</hi> lifted up in the Uſe of a <hi>Form,</hi> then is it Great Un-Charitableneſs to <hi>Cenſure</hi> thoſe who uſe it: And this can be no ſufficient Cauſe for a <hi>ſeparation.</hi>
+            </p>
+            <p>Beſides that it is Impoſſible for any of your <hi>Hearers</hi> to know whe<g ref="char:EOLhyphen"/>ther they make uſe of (that is, join in) an <hi>Ex-tempore,</hi> or a <hi>Pre-medi<g ref="char:EOLhyphen"/>tated Form:</hi> For how do they know whether the <hi>Speaker</hi> has thought of it before? Theſe are too ſlender Cauſes for a <hi>Separation.</hi>
+            </p>
+            <p>But in our <hi>Churches,</hi> the <hi>Miniſters</hi> are not ty'd to the <hi>Common-pray<g ref="char:EOLhyphen"/>er,</hi> but take the ſame Liberty as yours, to Pray according to their own Conceptions before and after <hi>Sermon.</hi> So that herein you may join quite free from this Exception.</p>
+            <p n="2">2. Your next <hi>Exception,</hi> Sect. 2, and 3. is concerning the <hi>Mini<g ref="char:EOLhyphen"/>ſtry,</hi> That they who undertake it, ought to be <hi>Guided</hi> and <hi>Influenced</hi> by the <hi>Holy-Spirit.</hi> Herein you differ not from us. We aſſert the ſame. And it is Demanded in the Examination of Perſons to be <hi>Or<g ref="char:EOLhyphen"/>dain'd,</hi> Whether they are perſwaded that they are moved thereto by the <hi>Holy Ghoſt?</hi> If Men will be-ly their own Conſciences, and thruſt themſelves Unworthily into the <hi>Miniſtry,</hi> that is not to be objected againſt the <hi>Conſtitution:</hi> And, Mr. <hi>Penn,</hi> you know that your <hi>Com<g ref="char:EOLhyphen"/>munion</hi> has Laboured under this Inconvenience as well as ours. I need not go to Inſtances. I know you will not put me to it. There<g ref="char:EOLhyphen"/>fore this is no Cauſe for <hi>Separation.</hi>
+            </p>
+            <p n="3">
+               <pb n="31" facs="tcp:42880:18"/>3. Your 4. <hi>Sect.</hi> That <hi>Miniſters</hi> are <hi>Chriſt's</hi> Witneſſes, and ap<g ref="char:EOLhyphen"/>plying to this 1 <hi>Joh.</hi> 1.1, 3. <hi>That which we have heard, ſeen with our Eyes, and our hands have handled,</hi> &amp;c. ſeems Strange; for this was ſpoken by St. <hi>John</hi> in relation to the <hi>Perſon</hi> of <hi>Chriſt,</hi> whom they had <hi>ſeen, felt,</hi> &amp;c. And ſuch ſort of Witneſſes I ſuppoſe you do not Pretend to be: You Pretend not to have <hi>ſeen</hi> our <hi>Lord</hi> in the <hi>Fleſh.</hi> But if you take this <hi>ſpiritually,</hi> (as I perceive you do) then we Wit<g ref="char:EOLhyphen"/>neſs it as much as you. And here can be no Cauſe of <hi>Separation.</hi>
+            </p>
+            <p n="4">4. Your 5. <hi>Sect.</hi> againſt Mens <hi>offering money to be made Miniſters.</hi> I would fain know what Caution you can adviſe againſt <hi>Symony</hi> that is not taken. But if you think it utterly unlawful for <hi>Miniſters</hi> to Receive ought from the <hi>People,</hi> to whom they <hi>Preach,</hi> How got <hi>G. Fox</hi> ſo much Money? And I would deſire to know how you anſwer 1 <hi>Cor.</hi> ix. 7, 11, 14. <hi>Gal.</hi> vi. 6. <hi>Phil</hi> iv. 14.16. How<g ref="char:EOLhyphen"/>ever, here can be no Cauſe of <hi>Separation.</hi>
+            </p>
+            <p n="5">5. Chap. xii. <hi>Sect.</hi> 1. You ſay nothing againſt <hi>Tythes,</hi> but that you will not Support our <hi>Miniſtry:</hi> And that depending upon what is ſaid before as to them, I diſmiſs it. Though you might Grudge them their Tythes, and yet not break <hi>Communion:</hi> For you are no leſs Lyable to them now, than if you were in our <hi>Communion.</hi> And, not now to enter upon the <hi>Jus Divinum</hi> of <hi>Tythes,</hi> (which I think is very Plain) yet till you can ſhew it to be a Sin for the <hi>King</hi> and <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> to give <hi>Allowances</hi> or <hi>Eſtates</hi> to the <hi>Clergy,</hi> as well as to other Men, you can never countenance a <hi>Separation</hi> upon the account of <hi>Tythes.</hi> Ther are many in our <hi>Communion</hi> who are not yet perſwa<g ref="char:EOLhyphen"/>ded of the <hi>Divine Right</hi> of <hi>Tythes.</hi>
+            </p>
+            <p n="6">6. As to your 2. <hi>Sect.</hi> againſt <hi>Swearing.</hi> You have obtained an <hi>Act of Parliament</hi> to Swear in your own <hi>Form.</hi> Therefore that <hi>Ob<g ref="char:EOLhyphen"/>jection</hi> is taken out of the way. At leaſt it can be made no Pretence for a <hi>Separation.</hi>
+            </p>
+            <p n="7">7. As to your 3. <hi>Sect.</hi> concerning <hi>War,</hi> you ſay no more of it, than that it ought to Ceaſe among <hi>Chriſtians.</hi> And who does not wiſh it? But that it may ſometimes be <hi>Neceſſary</hi> and <hi>Lawful</hi> you have allow'd, in Engaging to the Government to maintain Souldiers in <hi>Penſilvania.</hi> But however you may keep that opinion, and yet not make a <hi>Separa<g ref="char:EOLhyphen"/>tion.</hi> As you may, what you mention Sect. 4, 5, 6, and 7. That is, The <hi>Salutations</hi> of the Times. <hi>Plainneſs</hi> of <hi>Speech.</hi> Not to Marry from among your ſelves. <hi>Plainneſs</hi> in <hi>Apparel.</hi> And to Refrain <hi>Sports</hi> and <hi>Paſtimes.</hi>
+            </p>
+            <p n="8">
+               <pb n="32" facs="tcp:42880:19"/>8. As to <hi>Sect.</hi> 8. againſt our Publick <hi>Faſts</hi> and <hi>Feaſts,</hi> they are lit<g ref="char:EOLhyphen"/>tle enough obſerv'd amongſt our ſelves. You'll not be much Quar<g ref="char:EOLhyphen"/>rell'd for that. But your Reaſon againſt them, becauſe they are of <hi>Human</hi> Inſtitution, needs another Reaſon why that is one, which you do not Give us. All <hi>Churches,</hi> both before and ſince <hi>Chriſt,</hi> have done the ſame. And ther is no <hi>Prohibition</hi> againſt it. However, if you cannot comply with it, you may ſtay at home on thoſe days. That is no Reaſon for a <hi>General</hi> Separation.</p>
+            <p>And theſe are all the <hi>Cauſes</hi> you have <hi>Inſtanc'd</hi> or <hi>Hinted</hi> at in your Book. And I hope, upon ſerious Conſideration, you will not think that any or all of them are ſufficient for a <hi>Separation.</hi>
+            </p>
+            <p>Remember what you ſaid to your own <hi>Separatiſts</hi> of <hi>Harp-Lane,</hi> when they deſired to put up paſt <hi>Quarrels;</hi> you bid them then to <hi>Return from their</hi> Separation. Take the <hi>Good Advice</hi> you have given. Sure the <hi>Cauſe</hi> is more Important. And our <hi>Church</hi> can Plead more <hi>Authority</hi> over you, than you could over them.</p>
+            <p>And if you think that ſhe has <hi>Errors</hi> and <hi>Defects,</hi> (wherein I will join with you) yet Conſider, that no <hi>Errors</hi> can juſtify a Breach of <hi>Communion,</hi> but thoſe which are Impos'd as Conditions of <hi>Commu<g ref="char:EOLhyphen"/>nion.</hi>
+            </p>
+            <p>We ſhall have many things to <hi>Bear</hi> with, to <hi>Bemoan,</hi> to <hi>Amend,</hi> to <hi>Struggle</hi> with, while we are upon this Earth.</p>
+            <p>And he that will make a <hi>Separation</hi> for every <hi>Error,</hi> will fall into much greater <hi>Error</hi> and <hi>Sin</hi> than that which he would ſeek to Cure. It is like tearing <hi>Chriſt</hi>'s ſeamleſs <hi>Coat,</hi> becauſe we like not the <hi>co<g ref="char:EOLhyphen"/>lour,</hi> or to mend the Faſhion of a Sleeve.</p>
+            <p>God Direct you, and us all. To His Grace I commend you, and the <hi>Influences</hi> of His <hi>Bleſſed</hi> Spirit, to ſhew you what Great things it is in your Power to do for Him and His Church; and give you a Heart to do them, that it be not laid to your Charge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <head>ADVERTISEMENT.</head>
+            <p>I Would not have the <hi>Reader</hi> or the <hi>Quakers</hi> think, becauſe I have inſtanced but in <hi>Seven</hi> Parti<g ref="char:EOLhyphen"/>culars, wherein the <hi>Quakers</hi> have Copy'd after the <hi>Ancient Hereticks</hi> within the firſt 150 Years of <hi>Chriſtianity,</hi> that therefore ther are no more. But I would not ſwell this matter to too great a bulk. I have ſhewn in <hi>The Snake,</hi> Sect. ix. how <hi>George Fox</hi> falls in with the <hi>Patri<g ref="char:EOLhyphen"/>paſſians,</hi> who Deny'd any Diſtinction of <hi>Perſons</hi> in the <hi>God-head;</hi> and conſequently held that it was <hi>God</hi> the <hi>Father</hi> who was Born of the <hi>B. Virgin,</hi> and <hi>Dyed</hi> for us. And whoever will com<g ref="char:EOLhyphen"/>pare the Tenets of the <hi>Quakers</hi> with the Account which <hi>Epiphanius</hi> and others later, have given of the <hi>Gnoſticks,</hi> and other <hi>Hereticks</hi> of thoſe times, will find many other Particulars wherein they agree. But becauſe the <hi>Quakers,</hi> and others of our <hi>Diſſenters,</hi> have (for no cauſe but their own <hi>Guilt</hi>) excepted againſt the Account of former <hi>Hereſies,</hi> given by thoſe of After Ages, I have, to take away all Umbrage, fetched my Authoritys from thoſe who were <hi>Co-temporaries</hi> with thoſe <hi>Hereticks</hi> which they mention.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
